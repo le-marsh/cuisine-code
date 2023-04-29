@@ -1,0 +1,359 @@
+,amount,meal,name,notes,unit
+0,1 litre / 1 quart,Flan Pâtissier (French Custard Tart),milk,full fat,
+1,2,Flan Pâtissier (French Custard Tart),vanilla beans,"seeds scraped, beans reserved (Note 1)",
+2,1,Flan Pâtissier (French Custard Tart),caster sugar,separated,cup
+3,120g / 4.2 oz,Flan Pâtissier (French Custard Tart),egg yolks,"(~6 to 7 large eggs, 100 ml, Note 2)",
+4,1,Flan Pâtissier (French Custard Tart),large egg,(55 – 60g / 2 oz),
+5,7 tbsp (70g),Flan Pâtissier (French Custard Tart),cornflour/cornstarch,"(scoop and level, Note 3)",
+6,50g (5 tbsp),Flan Pâtissier (French Custard Tart),unsalted butter,cut into 1cm cubes (cold),
+7,2,Flan Pâtissier (French Custard Tart),"butter puff pastry, FROZEN","(25cm / 10"" squares, 185g/6oz each) (Note 4)",sheets
+8,1,Flan Pâtissier (French Custard Tart),egg yolk,whisked,
+9,,Flan Pâtissier (French Custard Tart),Butter,for greasing,
+10,4,Chicken Fricassée (quick French chicken stew),chicken drumsticks,"(~150g/5oz each, Note 1)",
+11,4,Chicken Fricassée (quick French chicken stew),chicken thighs,"skin-on and bone-in (~250g/8oz each, Note 1)",
+12,1,Chicken Fricassée (quick French chicken stew),salt,(cooking / kosher salt),tsp
+13,1/2,Chicken Fricassée (quick French chicken stew),black pepper,,tsp
+14,4 tbsp / 60g,Chicken Fricassée (quick French chicken stew),unsalted butter,,
+15,300g / 10oz,Chicken Fricassée (quick French chicken stew),white mushrooms,"halved if small, or cut in 4 to 6 if large",
+16,2,Chicken Fricassée (quick French chicken stew),medium brown onions,sliced 0.6cm (1/2in) wide,
+17,2,Chicken Fricassée (quick French chicken stew),garlic cloves,finely minced,
+18,1,Chicken Fricassée (quick French chicken stew),bay leaf,fresh (sub dried),
+19,3,Chicken Fricassée (quick French chicken stew),thyme sprigs,(or 1/2 tsp dried thyme),
+20,3,Chicken Fricassée (quick French chicken stew),flour,plain / all-purpose,tbsp
+21,1/2,Chicken Fricassée (quick French chicken stew),white wine,preferably chardonnay  (Note 2),cup
+22,3,Chicken Fricassée (quick French chicken stew),chicken stock,low sodium (preferably homemade!),cups
+23,1/4,Chicken Fricassée (quick French chicken stew),salt,(cooking / kosher salt),tsp
+24,1/4,Chicken Fricassée (quick French chicken stew),black pepper,,tsp
+25,2,Chicken Fricassée (quick French chicken stew),parsley,chopped,tbsp
+26,2/3,Chicken Fricassée (quick French chicken stew),thickened/heavy cream,,cup
+27,4,Coq au Vin,chicken thighs,"bone-in, skin on (~220g / 7 oz each) (Note 1)",
+28,4,Coq au Vin,chicken drumsticks,(Note 1),
+29,16,Coq au Vin,pearl onions or picking onions,(Note 2),
+30,1,Coq au Vin,bay leaf,fresh (dry also ok),
+31,3,Coq au Vin,thyme sprigs,(sub 1 tsp dried thyme),
+32,750 ml / 3 cups,Coq au Vin,pinot noir red wine,or other dry red wine (Note 3),
+33,3 – 4,Coq au Vin,vegetable oil,(or canola oil),tbsp
+34,3/4,Coq au Vin,salt,"(cooking/kosher salt, or 1/2 tsp table salt)",tsp
+35,1/2,Coq au Vin,pepper,,tsp
+36,400g / 14oz,Coq au Vin,white mushrooms,halved (quartered if large) (Note 4),
+37,150g / 5oz,Coq au Vin,bacon piece,(speck) cut into 1 x 2.5cm / 0.4 x 1″ batons (Note 5),
+38,60g / 4 tbsp,Coq au Vin,unsalted butter,,
+39,3,Coq au Vin,garlic cloves,finely minced (with knife),
+40,2,Coq au Vin,tomato paste,,tbsp
+41,7,Coq au Vin,flour,plain / all purpose,tbsp
+42,750 ml / 3 cups,Coq au Vin,beef stock,"low sodium, preferably homemade (Note 6)",
+43,1/4,Coq au Vin,salt,"(cooking/kosher salt, or 1/8 tsp table salt) (Note 7)",tsp
+44,1/4,Coq au Vin,black pepper,,tsp
+45,2,Coq au Vin,parsley,chopped,tbsp
+46,,Coq au Vin,Mashed potato,(or tagliatelle),
+47,3/4 cup + 1 tbsp,Madeleines,plain flour (all purpose flour),,
+48,1 1/4,Madeleines,baking powder,(make sure it's still good),tsp
+49,3,Madeleines,large eggs,at room temperature (Note 1),
+50,2/3,Madeleines,caster sugar (superfine sugar),(ordinary / granulated sugar ok too),cup
+51,1,Madeleines,salt,,tsp
+52,1,Madeleines,vegetable oil,(or other neutral oil),tbsp
+53,3,Madeleines,milk,full fat (low fat ok too),tbsp
+54,2,Madeleines,honey,(or maple syrup),tsp
+55,2,Madeleines,vanilla extract,,tsp
+56,2,Madeleines,lemon zest,,tsp
+57,135g / 9.5 tbsp,Madeleines,unsalted butter,"melted, warm (not hot)",
+58,,Madeleines,Canola oil spray,(or other neutral oil),
+59,,Madeleines,Icing sugar / powdered sugar,"(optional, for dusting)",
+60,1,Lemon Tart,sweet tart crust,"(or homemade pie crust, or store bought 23cm / 9"" sweet pie or tart crust)",
+61,1,Lemon Tart,lemon zest,(1 lemon's worth),tbsp
+62,1/2,Lemon Tart,lemon juice,(from 1 – 2 lemons),cup
+63,3/4,Lemon Tart,white sugar,,cup
+64,12 tbsp / 170g,Lemon Tart,unsalted butter,"cut in 1cm (1/2"") cubes",
+65,3,Lemon Tart,whole eggs,"large, (Note 1)",
+66,3,Lemon Tart,egg yolks,"(from large-size eggs, Note 1)",
+67,4,Duck Confit (French slow-cooked duck),duck legs,"skin on, bone in (aka maryland); (Note 1)",x 250g / 8oz 
+68,750 ml / 25 oz,Duck Confit (French slow-cooked duck),duck fat,(Note 2),
+69,4,Duck Confit (French slow-cooked duck),cooking/kosher salt,(Note 4),tsp
+70,1/3,Duck Confit (French slow-cooked duck),thyme sprigs,lightly packed,cup
+71,1/3,Duck Confit (French slow-cooked duck),sage sprigs,lightly packed,cup
+72,1/3,Duck Confit (French slow-cooked duck),rosemary sprigs,lightly packed,cup
+73,1/3,Duck Confit (French slow-cooked duck),oregano sprigs,lightly packed,cup
+74,6,Duck Confit (French slow-cooked duck),garlic,smashed with skin on,cloves
+75,1,Duck Confit (French slow-cooked duck),eschalot,"(US: shallot), peeled and sliced 0.7cm (1/3"") thick",
+76,1,Duck Confit (French slow-cooked duck),black peppercorns,,tbsp
+77,1,Duck Confit (French slow-cooked duck),coriander seeds,,tbsp
+78,8,Duck Confit (French slow-cooked duck),star anise,,
+79,2,Duck Confit (French slow-cooked duck),bay leaves,,
+80,2,Duck Confit (French slow-cooked duck),juniper berries,,tbsp
+81,8,Duck Confit (French slow-cooked duck),cloves,,
+82,1,Lentil Ragout - French Puy lentil side dish,olive oil,,tbsp
+83,1,Lentil Ragout - French Puy lentil side dish,garlic clove,finely minced,
+84,1/2,Lentil Ragout - French Puy lentil side dish,onion,finely diced,
+85,1,Lentil Ragout - French Puy lentil side dish,carrot (large),peeled and finely diced,
+86,1,Lentil Ragout - French Puy lentil side dish,tomato paste,,tbsp
+87,1,Lentil Ragout - French Puy lentil side dish,bay leaf,preferably fresh otherwise dried,
+88,1,Lentil Ragout - French Puy lentil side dish,thyme sprig,,
+89,1,Lentil Ragout - French Puy lentil side dish,puy lentils (French lentils),(Note 1),cup
+90,3,Lentil Ragout - French Puy lentil side dish,vegetable stock,preferably homemade else low sodium store bought (Note 2),cups
+91,1/2,Lentil Ragout - French Puy lentil side dish,salt,(skip if using store bought),tsp
+92,1/4,Lentil Ragout - French Puy lentil side dish,black pepper,,tsp
+93,1,Lentil Ragout - French Puy lentil side dish,parsley,finely chopped,tbsp
+94,2 x,Warm French Goat's Cheese Salad (Salade de Chêvre Chaud),ripened goat's cheese,"each round 5-6cm (2-2.2"") wide, ideally AOC (Note 1)",60g / 2oz
+95,1,Warm French Goat's Cheese Salad (Salade de Chêvre Chaud),egg,,
+96,2,Warm French Goat's Cheese Salad (Salade de Chêvre Chaud),flour,plain / all-purpose,tbsp
+97,1/3,Warm French Goat's Cheese Salad (Salade de Chêvre Chaud),breadcrumbs,"regular kind, else sub panko; (Note 2)",cup
+98,30g / 2 tbsp,Warm French Goat's Cheese Salad (Salade de Chêvre Chaud),butter,unsalted,
+99,2,Warm French Goat's Cheese Salad (Salade de Chêvre Chaud),pine nuts,,tsp
+100,1/4,Warm French Goat's Cheese Salad (Salade de Chêvre Chaud),walnuts,,cup
+101,100g / 3.5oz,Warm French Goat's Cheese Salad (Salade de Chêvre Chaud),bacon,"streaky; cut into 0.5 x 1.25cm (1/5 x 1/2"") lardons",
+102,1/2,Warm French Goat's Cheese Salad (Salade de Chêvre Chaud),head of red oak or bibb lettuce (large),"washed, dried and leaves torn into 2 or 3 large pieces; (Note 3)",
+103,1,Warm French Goat's Cheese Salad (Salade de Chêvre Chaud),tomato,large; cut into 8 wedges,
+104,1/2,Warm French Goat's Cheese Salad (Salade de Chêvre Chaud),chives,finely chopped,tsp
+105,1/4,Warm French Goat's Cheese Salad (Salade de Chêvre Chaud),garlic,very finely minced,tsp
+106,1,Warm French Goat's Cheese Salad (Salade de Chêvre Chaud),eschalot,finely diced (~ 1 tbsp); (Note 4),tbsp
+107,1/4,Warm French Goat's Cheese Salad (Salade de Chêvre Chaud),Dijon mustard,,tsp
+108,1 1/2,Warm French Goat's Cheese Salad (Salade de Chêvre Chaud),balsamic vinegar,(the best quality you can afford),tbsp
+109,4 1/2,Warm French Goat's Cheese Salad (Salade de Chêvre Chaud),extra virgin olive oil,(the best quality you can afford),tbsp
+110,1/8,Warm French Goat's Cheese Salad (Salade de Chêvre Chaud),salt,,tsp
+111,2 1/2,Brioche,instant/rapid rise dried yeast,(other yeasts see Note 1),tsp
+112,4,Brioche,milk,"warm, full fat (Note 2)",tbsp
+113,2,Brioche,plain/all purpose flour,"(not bread flour, Note 3)",cups
+114,3 1/2,Brioche,caster/superfine sugar,(Note 4),tbsp
+115,1/2,Brioche,eggs (2 1/2 eggs),"lightly whisked, at room temperature (Note 5)",cup
+116,1,Brioche,salt,"(cooking/kosher salt, not table salt Note 6)",tsp
+117,150g / 10.5 tbsp,Brioche,unsalted butter,"cut into 1.25 / 1/2"" pieces, softened (but not melting, Note 7)",
+118,,Brioche,Oil spray,"anything neutral flavoured (canola, vegetable, not olive oil)",
+119,1/2,Brioche,leftover egg,"lighter whisked (Egg Wash, use leftover egg from above)",
+120,5 1/2,Sauce Vierge,extra virgin olive oil,,tbsp
+121,2,Sauce Vierge,fresh lemon juice,,tbsp
+122,2,Sauce Vierge,tomatoes,"seeded and diced into 0.8cm (1/3"") cubes (Note 1)",
+123,12,Sauce Vierge,black olives,"pitted and cut into strips (Spanish, kalamata, or other)",
+124,2,Sauce Vierge,anchovy fillets,very finely minced (Note 2),
+125,1/2,Sauce Vierge,garlic,very finely minced,tsp
+126,1,Sauce Vierge,parsley,finely chopped (Note 3),tsp
+127,1/2,Sauce Vierge,chives,finely chopped (Note 3),tsp
+128,1/2,Sauce Vierge,tarragon leaves,finely chopped (Note 3),tsp
+129,1/4,Sauce Vierge,salt,,tsp
+130,1/4,Sauce Vierge,black pepper,,tsp
+131,1/2,Croque Monsieur - the ultimate ham & cheese sandwich!,milk,,cup
+132,1/2,Croque Monsieur - the ultimate ham & cheese sandwich!,cream,(pure or heavy / thickened),cup
+133,1 1/2 tbsp / 25g,Croque Monsieur - the ultimate ham & cheese sandwich!,unsalted butter,,
+134,1 1/2,Croque Monsieur - the ultimate ham & cheese sandwich!,flour,plain / all-purpose,tbsp
+135,1/4,Croque Monsieur - the ultimate ham & cheese sandwich!,salt,kosher/cooking salt,tsp
+136,1,Croque Monsieur - the ultimate ham & cheese sandwich!,white pepper,,pinch
+137,1/8,Croque Monsieur - the ultimate ham & cheese sandwich!,nutmeg,preferably freshly ground,tsp
+138,4,Croque Monsieur - the ultimate ham & cheese sandwich!,sourdough bread,"1.5cm / ⅗"" thick (Note 1)",slices
+139,8,Croque Monsieur - the ultimate ham & cheese sandwich!,Swiss or gruyere cheese,"(165g / 6 oz, enough for 2 layers a sandwich) (Note 2)",slices
+140,120g / 4 oz,Croque Monsieur - the ultimate ham & cheese sandwich!,ham slices,preferably smoked,
+141,4,Croque Monsieur - the ultimate ham & cheese sandwich!,Dijon mustard,,tsp
+142,30g / 2 tbsp,Croque Monsieur - the ultimate ham & cheese sandwich!,unsalted butter,,
+143,1/2,Croque Monsieur - the ultimate ham & cheese sandwich!,gruyere cheese,"shredded (packed cup, Note 2)",cup
+144,3,Croque Monsieur - the ultimate ham & cheese sandwich!,parmesan,finely shredded (Note 2),tbsp
+145,1,Ratatouille - French Vegetable Stew, eggplant (aubergine),"cut into 2cm / ¾"" cubes (leave skin on) (~450g / 16oz)",
+146,1/2,Ratatouille - French Vegetable Stew,salt,cooking / kosher salt,tsp
+147,3,Ratatouille - French Vegetable Stew,tomatoes,"chopped (~150g / 5oz each), Note 1 canned subs",
+148,6,Ratatouille - French Vegetable Stew,extra virgin olive oil,,tbsp
+149,2,Ratatouille - French Vegetable Stew,brown onion,"chopped 1cm / ⅖"" cubes (~150g / 5oz each)",
+150,2,Ratatouille - French Vegetable Stew,"capsicum (1 red, 1 yellow),","cut into 2cm / ⅘"" cubes (~200g / 7oz each)",
+151,2,Ratatouille - French Vegetable Stew,"zucchinis (courgettes),","diced into 1.5cm / ½"" pieces (~200g / 7oz each)",
+152,2,Ratatouille - French Vegetable Stew,garlic cloves,finely chopped (~3 tsp),
+153,1,Ratatouille - French Vegetable Stew,fresh thyme leaves,chopped (Note 2 for subs),tsp
+154,3/4,Ratatouille - French Vegetable Stew,salt,cooking/kosher salt,tsp
+155,1/4,Ratatouille - French Vegetable Stew,black pepper,,tsp
+156,20,Ratatouille - French Vegetable Stew,black olives,"pitted, halved",
+157,1,Ratatouille - French Vegetable Stew,fresh basil,"finely chopped, plus more for garnish (Note 2 subs)",tbsp
+158,,Ratatouille - French Vegetable Stew,Extra virgin olive oil,for drizzling,
+159,2,Crème Brûlée (French vanilla custard),pure cream (Aus) / heavy cream (US),(Note 1),cups
+160,1,Crème Brûlée (French vanilla custard),vanilla pod OR 1 tsp vanilla bean paste,(Note 2),
+161,5,Crème Brûlée (French vanilla custard),egg yolks,(Note 3 for using leftover whites),
+162,1/4,Crème Brûlée (French vanilla custard),caster sugar,(superfine sugar),cup
+163,2,Crème Brûlée (French vanilla custard),caster sugar,(superfine sugar),tsp
+164,1,Pistachio Pear Tart,Sweet Tart Crust,(Note 1),
+165,4,Pistachio Pear Tart,pears,"(of equal size, 220g/7oz each, ~10cm/4"" tall, Note 2)",
+166,1,Pistachio Pear Tart,lemon,to acidulate water and stop pears from going brown (Note 3),
+167,2 litres / 2 quarts,Pistachio Pear Tart,water,,
+168,1,Pistachio Pear Tart,white sugar,,cup
+169,1/2,Pistachio Pear Tart,vanilla extract,or 1/4 tsp vanilla powder (Note 4),tsp
+170,100g / 7 tbsp,Pistachio Pear Tart,unsalted butter,"softened, cut into 1cm / 0.4"" cubes",
+171,1/2,Pistachio Pear Tart,caster sugar,,cup
+172,2,Pistachio Pear Tart,large eggs,"55-60g / 2 oz each,  at room temperature",
+173,3/4,Pistachio Pear Tart,"pistachios (unsalted, roasted)",shelled and skinned (blitz until fine powder),cup
+174,2 1/2,Pistachio Pear Tart,"pistachios (unsalted, roasted)",finely chopped (for sprinkling),tbsp
+175,2,Pistachio Pear Tart,apricot jam,mixed with 1 tsp water and warmed in microwave (for glazing),tbsp
+176,1 1/2,Sweet Tart Crust (French pastry – Pâte Sucrée),flour,plain/all purpose,cups
+177,6 1/2,Sweet Tart Crust (French pastry – Pâte Sucrée),soft icing sugar / powdered sugar,sifted (Note 1),tbsp
+178,2 1/2,Sweet Tart Crust (French pastry – Pâte Sucrée),almond meal / ground almonds,(Note 2),tbsp
+179,1/4,Sweet Tart Crust (French pastry – Pâte Sucrée),salt,,tsp
+180,100g / 7 tbsp,Sweet Tart Crust (French pastry – Pâte Sucrée),butter,"unsalted, softened, cut into 1cm cubes",
+181,1,Sweet Tart Crust (French pastry – Pâte Sucrée),large egg,at room temperature (55-60g/2 oz) (Note 3),
+182,1 1/2,Béarnaise Sauce – world’s finest steak sauce,white wine,"dry, not too fruity, sweet or woody (Note 1)",tbsp
+183,1 1/2,Béarnaise Sauce – world’s finest steak sauce,white wine vinegar,(Note 2),tbsp
+184,1/4,Béarnaise Sauce – world’s finest steak sauce,black pepper,coarsely crushed,tsp
+185,1,Béarnaise Sauce – world’s finest steak sauce,eschallot,"(small), peeled and finely sliced (Note 3)",
+186,2,Béarnaise Sauce – world’s finest steak sauce,sprigs tarragon,(Note 6),
+187,3,Béarnaise Sauce – world’s finest steak sauce,egg yolks,at room temperature (Note 4),
+188,1/4,Béarnaise Sauce – world’s finest steak sauce,salt,kosher/cooking salt,tsp
+189,225g / 16 tbsp,Béarnaise Sauce – world’s finest steak sauce,unsalted butter,"cut into 1cm / 1"" cubes – 2 US sticks (Note 5)",
+190,1/2,Béarnaise Sauce – world’s finest steak sauce,tarragon leaves,finely chopped (Note 6),tbsp
+191,1/2,Béarnaise Sauce – world’s finest steak sauce,chervil,finely chopped (Note 6),tbsp
+192,8,Nicoise Salad (French Salad with Tuna),baby/chat potatoes,(Note 1),
+193,120g/ 4 oz,Nicoise Salad (French Salad with Tuna), green beans,trimmed,
+194,2,Nicoise Salad (French Salad with Tuna),tomatoes,each cut into 8 – 10 wedges,
+195,1/2,Nicoise Salad (French Salad with Tuna),baby cos lettuce (romaine),cut or torn into large bite size pieces,
+196,3,Nicoise Salad (French Salad with Tuna),hard-boiled eggs,peeled and quartered,
+197,¾ cup/ 100g,Nicoise Salad (French Salad with Tuna),unpitted black olives,(Note 2),
+198,250 – 300g/ 8 – 10oz,Nicoise Salad (French Salad with Tuna),canned chunk tuna in oil,drained and broken into large chunks (Note 3),
+199,1 1/2,Nicoise Salad (French Salad with Tuna),lemon juice,,tbsp
+200,4,Nicoise Salad (French Salad with Tuna),extra virgin olive oil,,tbsp
+201,1,Nicoise Salad (French Salad with Tuna),small garlic clove,minced/grated,
+202,1/4,Nicoise Salad (French Salad with Tuna),salt,,tsp
+203,1,Nicoise Salad (French Salad with Tuna),Dijon mustard,,tsp
+204,,Nicoise Salad (French Salad with Tuna),black pepper,,Pinch
+205,800g/ 1.6 lb,Beef Bourguignon (Beef Burgundy),chuck beef,cut in 4-5 cm / 2” cubes (Note 1),
+206,2,Beef Bourguignon (Beef Burgundy),large carrots,"(~300g/10oz), cut on an angle into 4-5 cm / 2” pieces",
+207,16,Beef Bourguignon (Beef Burgundy),"pearl onions or small, round pickling onions",(Note 2),
+208,1,Beef Bourguignon (Beef Burgundy),bay leaf,fresh (sub: dried),
+209,3,Beef Bourguignon (Beef Burgundy),sprigs thyme,,
+210,750ml/ 25 oz,Beef Bourguignon (Beef Burgundy),pinot noir or other red wine,(Note 3),
+211,3,Beef Bourguignon (Beef Burgundy),oil,"olive, canola or vegetable",tbsp
+212,3/4,Beef Bourguignon (Beef Burgundy),salt,,tsp
+213,1/2,Beef Bourguignon (Beef Burgundy),pepper,,tsp
+214,200g/ 7oz,Beef Bourguignon (Beef Burgundy),mushrooms,halved (quarters if large),
+215,150g/ 5oz,Beef Bourguignon (Beef Burgundy),bacon piece,cut into 1cm / 1/2” thick batons (Note 4),
+216,50g/3 tbsp,Beef Bourguignon (Beef Burgundy),unsalted butter,,
+217,3,Beef Bourguignon (Beef Burgundy),garlic cloves,minced,
+218,2,Beef Bourguignon (Beef Burgundy),tomato paste,,tbsp
+219,6,Beef Bourguignon (Beef Burgundy),flour,plain/all purpose,tbsp
+220,3,Beef Bourguignon (Beef Burgundy),beef stock (low sodium),preferably homemade; otherwise the best you can afford (Note 5),cups
+221,1/4,Beef Bourguignon (Beef Burgundy),salt,,tsp
+222,2,Beef Bourguignon (Beef Burgundy),chopped parsley,for garnish,tbsp
+223,1 1/2,Potatoes au Gratin (Dauphinoise),cream,full fat (Note 1),cups
+224,2,Potatoes au Gratin (Dauphinoise),garlic cloves,minced,
+225,30g / 2 tbsp,Potatoes au Gratin (Dauphinoise),unsalted butter,melted,
+226,1.25 kg / 2.5 lb,Potatoes au Gratin (Dauphinoise),starchy potatoes,"Russet, Sebago, Maris Piper (Note 2)",
+227,1 ,Potatoes au Gratin (Dauphinoise),salt,,tsp
+228,1/4,Potatoes au Gratin (Dauphinoise),pepper,,tsp
+229,2 1/2,Potatoes au Gratin (Dauphinoise),gruyere cheese (or mozzarella),freshly grated yourself (Note 3),cups
+230,2,Potatoes au Gratin (Dauphinoise),thyme leaves,fresh (optional – but highly recommended),tsp
+231,1/2,French Bistro Salad,big head green oak or butter/bibb lettuce,(about 8 big handfuls – but don’t crush the leaves to measure!),
+232,1,French Bistro Salad,baby cos/romaine lettuce,,
+233,1/2,French Bistro Salad,tarragon leaves,,cup
+234,1/2,French Bistro Salad,chives,cut into 3cm / 1 1/2″ lengths,cup
+235,3/4,French Bistro Salad,parsley leaves,,cup
+236,1/2,French Bistro Salad,walnuts,"roughly chopped then toasted and cooled (optional, Note 1)",cup
+237,2,French Bistro Salad,eschalots,"(aka French onion, US: shallots), finely sliced",
+238,2/3,French Bistro Salad,red or white wine vinegar,,cup
+239,4,French Bistro Salad,white sugar,,tbsp
+240,1.5,French Bistro Salad,lemon juice,,tbsp
+241,5,French Bistro Salad,extra virgin olive oil,,tbsp
+242,1/2,French Bistro Salad,each salt and pepper,,tsp
+243,5,Tomato Salad with Olive Tapenade (very French!),tomatoes,"medium sized, sliced into 1cm/ 0.2"" thick rounds",
+244,1/4,Tomato Salad with Olive Tapenade (very French!),salt,,tsp
+245,1/2,Tomato Salad with Olive Tapenade (very French!),flat leaf parsley leaves,left whole or roughly torn,cup
+246,,Tomato Salad with Olive Tapenade (very French!),Extra olive oil,for drizzling,
+247,1,Tomato Salad with Olive Tapenade (very French!),kalamata or other black deli olives,preferably unpitted (Note 1),cup
+248,2,Tomato Salad with Olive Tapenade (very French!),capers,"drained or rinsed (if packed in salt), chopped",tsp
+249,1,Tomato Salad with Olive Tapenade (very French!),garlic clove,"medium, minced",
+250,1,Tomato Salad with Olive Tapenade (very French!),large or 2 small anchovy fillets,"(Note 2), minced",
+251,1/4,Tomato Salad with Olive Tapenade (very French!),red or white wine vinegar,,tsp
+252,4  – 5,Tomato Salad with Olive Tapenade (very French!),extra virgin olive oil,use your best stuff!,tbsp
+253,3,"Hollandaise Sauce (Quick, easy, foolproof)",egg yolks,"from large eggs (55-60g / 2 oz each, Note 1)",
+254,1/4,"Hollandaise Sauce (Quick, easy, foolproof)",cayenne pepper,or white pepper,tsp
+255,1/4,"Hollandaise Sauce (Quick, easy, foolproof)",salt,(or,tsp
+256,1 1/2,"Hollandaise Sauce (Quick, easy, foolproof)",lemon juice,plus more to taste,tbsp
+257,1 1/2,"Hollandaise Sauce (Quick, easy, foolproof)",water,,tbsp
+258,175 g/ 1 1/2 sticks,"Hollandaise Sauce (Quick, easy, foolproof)",unsalted butter,"cut into 1.5 cm / 1/2"" cubes (Note 2)",
+259,1 cup (250ml) ,Gougeres - French Cheese Puffs (finger food!),water,,
+260,80g / 5.5 tbsp,Gougeres - French Cheese Puffs (finger food!),butter,"unsalted, cut into 1.5 cm / 0.5"" cubes",
+261,1 cup (150g) ,Gougeres - French Cheese Puffs (finger food!),flour,plain / all purpose,
+262,3/4,Gougeres - French Cheese Puffs (finger food!),salt,kosher/cooking salt,tsp
+263,,Gougeres - French Cheese Puffs (finger food!),nutmeg,(powder or freshly grated),Pinch
+264,,Gougeres - French Cheese Puffs (finger food!),black pepper,,Pinch
+265,4,Gougeres - French Cheese Puffs (finger food!),eggs,(~60 - 65g / 2oz each),
+266,200g / 2 cups,Gougeres - French Cheese Puffs (finger food!),Gruyère cheese,freshly shredded (Note 1),
+267,50g / 1/2 cup,Gougeres - French Cheese Puffs (finger food!),"Gruyere cheese, extra",freshly shredded (Note 1),
+268,1,Gougeres - French Cheese Puffs (finger food!),egg yolk,for brushing,
+269,2,Kir Royale (French champagne cocktail),Creme de cassis,"(blackcurrent liquor, Note 1)",tsp
+270,185ml/ 3/4 cup ,Kir Royale (French champagne cocktail),champagne or sparkling wine,(Note 2),
+271,100 g / 3.5oz ,French Onion Soup,unsalted butter,,
+272,1.25 kg / 2.5 lb,French Onion Soup,brown / yellow onions,"peeled, halved, thinly sliced top to bottom (Note 1)",
+273,3/4 cup (185ml),French Onion Soup,dry white wine,optional (Note 2),
+274,2 tbsp,French Onion Soup,flour,plain / all purpose,
+275,1.5 litres / 6 cups / 1.5 quarts ,French Onion Soup,good quality beef broth./stock OR chicken,low sodium/salt reduced (Note 3),
+276,2,French Onion Soup,dried bay leaves,(or 3 fresh) (optional),
+277,3,French Onion Soup,sprigs fresh thyme,(optional),
+278,,French Onion Soup,Salt and pepper,,
+279,6,French Onion Soup,slices French baguette,or other softish bread (Note 4),- 8
+280,100 g / 3.5 oz ,French Onion Soup,gruyere,"or mozzarella cheese, or other melting cheese of choice",
+281,,French Onion Soup,Fresh parsley or thyme leaves,for garnish (optional),
+282,1,Quiche Lorraine,homemade quiche crust,(shortcrust pastry),
+283,2,Quiche Lorraine,sheets shortcrust,thawed,
+284,1,Quiche Lorraine,prepared pie shell,fridge or frozen,
+285,1 tbsp / 15g,Quiche Lorraine,butter,,
+286,1,Quiche Lorraine,garlic clove,minced,
+287,1/2,Quiche Lorraine,"onion, finely chopped",(~1/2 cup),
+288,200 g / 6.5 oz ,Quiche Lorraine,"bacon, cut into small strips (1.5 x 0.5cm / 2/3"" x 1/5"")",,
+289,4,Quiche Lorraine,eggs (~55- 65g / 2 oz each),,
+290,1 1/4 cups (300ml),Quiche Lorraine,heavy cream (thickened cream) (Note 1),,
+291,,Quiche Lorraine,of salt & pepper,,Pinch
+292,1 1/4 cups (125g),Quiche Lorraine,"grated gruyere cheese (or tasty, cheddar, monterey jack)",,
+293,50g / 2 oz,Quiche Lorraine,"bacon, chopped and cooked until golden",,
+294,60 g / 4 tbsp ,Killer Lemon Butter Sauce for Fish,unsalted butter,cut into pieces,
+295,1,Killer Lemon Butter Sauce for Fish,fresh lemon juice,,tbsp
+296,,Killer Lemon Butter Sauce for Fish,Salt and finely ground pepper,,
+297,2 x ,Killer Lemon Butter Sauce for Fish,"thin white fish fillets  (120-150g / 4-5oz each), skinless boneless (I used Bream, Note 1)",,
+298,,Killer Lemon Butter Sauce for Fish,Salt and pepper,,
+299,2,Killer Lemon Butter Sauce for Fish,white flour,,tbsp
+300,2,Killer Lemon Butter Sauce for Fish,oil,(I use canola),tbsp
+301,,Killer Lemon Butter Sauce for Fish,Lemon wedges,,
+302,,Killer Lemon Butter Sauce for Fish,"Finely chopped parsley, optional",,
+303,1/4,French Salad Dressing (French Vinaigrette),eschalots / French shallots,finely chopped (Note 1),cup
+304,1/4,French Salad Dressing (French Vinaigrette),red or white wine vinegar,(or sherry or champagne vinegar),cup
+305,4,French Salad Dressing (French Vinaigrette),Dijon Mustard,,tsp
+306,1/2,French Salad Dressing (French Vinaigrette),extra virgin olive oil,(or more if you want richer),cup
+307,1/2,French Salad Dressing (French Vinaigrette),salt,,tsp
+308,,French Salad Dressing (French Vinaigrette),Black pepper,,
+309,1,French Salad Dressing (French Vinaigrette),eschalots / French shallots,finely chopped (Note 1),tbsp
+310,1,French Salad Dressing (French Vinaigrette),red or white wine vinegar,(or sherry or champagne vinegar),tbsp
+311,1,French Salad Dressing (French Vinaigrette),Dijon Mustard,,tsp
+312,2,French Salad Dressing (French Vinaigrette),olive oil,(I use 5 tbsp),tbsp
+313,,French Salad Dressing (French Vinaigrette),Salt and pepper,,
+314,1 cup / 150 g ,Nutella Crepes with Strawberries,plain flour,(all purpose flour),
+315,1 1/2 cups / 375 ml ,Nutella Crepes with Strawberries,milk,(I use low fat),
+316,2,Nutella Crepes with Strawberries,eggs,,
+317,3 tbsp / 40 g ,Nutella Crepes with Strawberries,unsalted butter,,
+318,1,Nutella Crepes with Strawberries,vanilla extract,,tsp
+319,2,Nutella Crepes with Strawberries,white sugar,"(optional, I find the Nutella makes it sweet enough)",tbsp
+320,,Nutella Crepes with Strawberries,of salt,,Pinch
+321,2,Nutella Crepes with Strawberries,unsalted butter,,tsp
+322,,Nutella Crepes with Strawberries,Nutella,(homemade or store bought),
+323,,Nutella Crepes with Strawberries,Strawberries,sliced,
+324,,Nutella Crepes with Strawberries,Icing sugar / confectionary sugar,for dusting,
+325,7 oz / 200 g ,Seafood Gratin Pasta Bake,macaroni or other pasta of choice,,
+326,1 1/2,Seafood Gratin Pasta Bake,olive oil,separated,tbsp
+327,1 lb / 500 g ,Seafood Gratin Pasta Bake,mixed raw seafood,(Marinara seafood mix) (Note 1),
+328,2,Seafood Gratin Pasta Bake,leeks,white and pale green part only finely sliced,
+329,2,Seafood Gratin Pasta Bake,garlic cloves,minced,
+330,3,Seafood Gratin Pasta Bake,butter,,tbsp
+331,3,Seafood Gratin Pasta Bake,flour,,tbsp
+332,2 1/2,Seafood Gratin Pasta Bake,milk,,cups
+333,1,Seafood Gratin Pasta Bake,chicken bouillon cube,(or 1 1/2 tsp chicken stock powder) OR 1/2 cup grated parmesan cheese,
+334,3/4,Seafood Gratin Pasta Bake,panko,,cup
+335,1/4,Seafood Gratin Pasta Bake,grated parmesan cheese,(high recommended),cup
+336,,Seafood Gratin Pasta Bake,Finely chopped fresh parsley,(optional),
+337,1,Creamy Chicken in White Wine Sauce (with Bacon!),olive oil,,tbsp
+338,2.5 lb / 1.2 kg ,Creamy Chicken in White Wine Sauce (with Bacon!),chicken pieces,bone in thigh & drumsticks are ideal (Note 1),
+339,1 tbsp / 15g / 0.5 oz,Creamy Chicken in White Wine Sauce (with Bacon!),butter,,
+340,3,Creamy Chicken in White Wine Sauce (with Bacon!),garlic cloves,crushed,
+341,1,Creamy Chicken in White Wine Sauce (with Bacon!),onion,"(brown, white, yellow), finely chopped (~1 cup)",
+342,5 oz / 150 g ,Creamy Chicken in White Wine Sauce (with Bacon!),bacon,diced,
+343,2 cups / 500 ml ,Creamy Chicken in White Wine Sauce (with Bacon!),dry white wine,(Note 2),
+344,1 cup / 250 ml,Creamy Chicken in White Wine Sauce (with Bacon!),chicken broth / stock or water,,
+345,2,Creamy Chicken in White Wine Sauce (with Bacon!),fresh thyme leaves,(or 1 tsp dried),tsp
+346,3/4 cup / 185 ml,Creamy Chicken in White Wine Sauce (with Bacon!),cream,"(pouring or heavy cream, but not low fat cream)", 
+347,,Creamy Chicken in White Wine Sauce (with Bacon!),Finely chopped parsley,,
+348,60 g / 2 oz / 4 tbsp ,Twice Baked Make Ahead Cheese Souffle,unsalted butter,,
+349,1,Twice Baked Make Ahead Cheese Souffle,finely chopped leeks or scallions/shallots,(white part only),cup
+350,1/3 cup (40 g / 1.5 oz) ,Twice Baked Make Ahead Cheese Souffle,plain all purpose flour (unsifted),,
+351,1,Twice Baked Make Ahead Cheese Souffle,milk,,cup
+352,1,Twice Baked Make Ahead Cheese Souffle,grated good melting cheese,(see notes),cup
+353,3,Twice Baked Make Ahead Cheese Souffle,eggs,separated,
+354,,Twice Baked Make Ahead Cheese Souffle,of salt and pepper,,Pinch
+355,1 1/4,Twice Baked Make Ahead Cheese Souffle,cream,(unwhipped),cups
+356,4,Twice Baked Make Ahead Cheese Souffle,grated cheese,,tbsp
+357,,Twice Baked Make Ahead Cheese Souffle,of salt and pepper,,Pinch

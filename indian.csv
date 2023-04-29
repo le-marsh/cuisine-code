@@ -1,0 +1,476 @@
+meal,servings,name,amount,unit,notes
+Vindaloo,4,beef chuck,800g / 1.6 lb,,cut into 3cm / 1.2″ cubes (Note 1)
+Vindaloo,4,salt,1 1/2,tsp,
+Vindaloo,4,Kashmiri chilli powder – TEST spiciness before using! ,6,tbsp,(Note 2)
+Vindaloo,4,coriander seeds,2,tsp,
+Vindaloo,4,cumin seeds,3,tsp,
+Vindaloo,4,cloves,4,,
+Vindaloo,4,cardamom pods,4,,(green)
+Vindaloo,4,cinnamon powder,2,tsp,
+Vindaloo,4,black peppercorns,1/2,tsp,
+Vindaloo,4,fresh ginger,2,tbsp,roughly chopped
+Vindaloo,4,garlic cloves,10,,"(yes, 10!)"
+Vindaloo,4,brown sugar,1,tsp,
+Vindaloo,4,fenugreek seeds,1,tsp,(Note 3)
+Vindaloo,4,turmeric powder,1/4,tsp,
+Vindaloo,4,white vinegar,7,tbsp,
+Vindaloo,4,water,2,cups,
+Vindaloo,4,ghee or unsalted butter,50g / 3 tbsp,,(Note 4)
+Vindaloo,4,onion,1,,"finely chopped (brown, yellow, white)"
+Vindaloo,4,ginger,2,tsp,finely grated
+Vindaloo,4,garlic cloves,4,,finely minced
+Vindaloo,4,black mustard seeds,1 1/2,tsp,(Note 5)
+Vindaloo,4,tomato paste,2,tbsp,
+Vindaloo,4,curry leaves,10,,fresh (Note 6)
+Vindaloo,4,beef stock,2,cups,"low sodium (if using homemade, add 1/2 tsp salt)"
+Vindaloo,4,coriander/cilantro leaves,2,tbsp,roughly chopped
+Pakora (Indian Vegetable Fritters),40,chickpea flour,2 1/4,cups,(Note 1)
+Pakora (Indian Vegetable Fritters),40,turmeric powder,1,tsp,
+Pakora (Indian Vegetable Fritters),40,cumin powder,1,tsp,
+Pakora (Indian Vegetable Fritters),40,coriander powder,1,tsp,
+Pakora (Indian Vegetable Fritters),40,fenugreek powder,1,tsp,(Note 2)
+Pakora (Indian Vegetable Fritters),40,chilli powder,1/2,tsp,"(pure chilli powder, Note 3)"
+Pakora (Indian Vegetable Fritters),40,salt,2,tsp,(cooking/kosher salt)
+Pakora (Indian Vegetable Fritters),40,water,3/4 cups + 2 1/2 tbsp,,
+Pakora (Indian Vegetable Fritters),40,onions,1 1/2,cups,grated using standard box grater (~1 1/2 onions)
+Pakora (Indian Vegetable Fritters),40,potato,2,cups,"(~1 large), peeled and grated using standard box grater (Note 4)"
+Pakora (Indian Vegetable Fritters),40,cauliflower,2 1/2,cups,"(~1/4 large head), finely chopped into rice size pieces (or grate)"
+Pakora (Indian Vegetable Fritters),40,large red chillies,2,,"(cayenne peppers), finely chopped (adjust spiciness to taste, or leave them out)"
+Pakora (Indian Vegetable Fritters),40,fresh ginger,1,tbsp,finely grated
+Pakora (Indian Vegetable Fritters),40,coriander/cilantro leaves,2,tbsp,finely chopped
+Pakora (Indian Vegetable Fritters),40,vegetable or canola oil,3 – 4,cups,(4cm / 1.5″ depth in pot)
+Pakora (Indian Vegetable Fritters),40,mint leaves,2,cups,
+Pakora (Indian Vegetable Fritters),40,coriander/cilantro leaves,1,cup,
+Pakora (Indian Vegetable Fritters),40,eschalot,1/4,cup,sliced
+Pakora (Indian Vegetable Fritters),40,lime juice,3,tbsp,
+Pakora (Indian Vegetable Fritters),40,caster sugar,1,tsp,
+Pakora (Indian Vegetable Fritters),40,cumin seeds,1/2,tsp,
+Pakora (Indian Vegetable Fritters),40,cooking/kosher salt,1/2,tsp,
+Pakora (Indian Vegetable Fritters),40,ice cubes,2,,(loosens + keeps sauce green)
+Pakora (Indian Vegetable Fritters),40,plain yoghurt,1,cup,
+Pakora (Indian Vegetable Fritters),40,mint leaves,1/2,cup,packed
+Pakora (Indian Vegetable Fritters),40,salt,1/4,tsp,
+Samosa recipe,12,flour,1 1/2,cups,plain/all purpose
+Samosa recipe,12,ajwain seeds,1,tsp,(Note 1)
+Samosa recipe,12,salt,1/2,tsp,cooking/kosher
+Samosa recipe,12,ghee,4,tbsp,(melted and cooled) or oil (any vegetable) (Note 2)
+Samosa recipe,12,water,6,tbsp,(cold tap water)
+Samosa recipe,12,potatoes,500g/1,,starchy/all-rounder (Note 3)
+Samosa recipe,12,vegetable/canola oil,2,tbsp,
+Samosa recipe,12,cumin seeds,1,tsp,
+Samosa recipe,12,black mustard seeds,1/4,tsp,
+Samosa recipe,12,coriander seeds,1/2,tsp,
+Samosa recipe,12,fresh ginger,1,tbsp,finely grated
+Samosa recipe,12,green chilli,1,tbsp,finely chopped (serrano or cayenne)
+Samosa recipe,12,frozen green peas,1/2,cup,(thawed)
+Samosa recipe,12,garam masala,1,tsp,
+Samosa recipe,12,amchur,1/4,tsp,(Note 4)
+Samosa recipe,12,asafoetida,1/2,tsp,(Note 5)
+Samosa recipe,12,cumin powder,1/4,tsp,
+Samosa recipe,12,turmeric powder,1/2,tsp,
+Samosa recipe,12,salt,1,tsp,kosher/cooking
+Samosa recipe,12,coriander/cilantro leaves,2,tbsp,finely chopped
+Samosa recipe,12,Vegetable/Canola oil for frying,,,(at least 1 litre/1 quart)
+Samosa recipe,12,Tamarind Dipping Sauce,,,– see separate recipe card below
+Samosa recipe,12,vegetable/canola oil,1,tbsp,
+Samosa recipe,12,ground ginger,1/2,tsp,
+Samosa recipe,12,chilli powder,1/4,tsp,*optional
+Samosa recipe,12,ground cumin,1/2,tsp,
+Samosa recipe,12,asafoetida,1/4,tsp,(Note 1)
+Samosa recipe,12,garam masala,1/4,tsp,
+Samosa recipe,12,water,1,cup,
+Samosa recipe,12,tamarind paste/concentrate,2 – 3,tbsp,(Note 2)
+Samosa recipe,12,brown sugar,1/2,cup,
+Naan recipe – chewy & fluffy!,6,instant / rapid rise yeast,1,tsp,(Note 1)
+Naan recipe – chewy & fluffy!,6,warm tap water,1/2,cup,(~40°C/105°F in temperature)
+Naan recipe – chewy & fluffy!,6,white sugar,1,tbsp,
+Naan recipe – chewy & fluffy!,6,milk,2,tbsp,full fat (low fat ok too)
+Naan recipe – chewy & fluffy!,6,whisked egg,1 1/2,tbsp,"at room temp (around 1/2 an egg, Note 2)"
+Naan recipe – chewy & fluffy!,6,salt,1/2,tsp,cooking / kosher
+Naan recipe – chewy & fluffy!,6,bread flour,1 3/4,cups,or all-purpose/plain (Note 3)
+Naan recipe – chewy & fluffy!,6,ghee or unsalted butter,30g / 2 tbsp,,melted (Note 4)
+Naan recipe – chewy & fluffy!,6,ghee or butter,30g / 2 tbsp,tbsp,melted (Note 4)
+Naan recipe – chewy & fluffy!,6,small garlic clove,1,,for Garlic Butter option (Note 5)
+Naan recipe – chewy & fluffy!,6,Nigella seeds,,,
+Naan recipe – chewy & fluffy!,6,Coriander/cilantro,,,finely chopped
+Naan recipe – chewy & fluffy!,6,Shredded cheese,,,"(for cheese naan) – Monterey Jack, cheddar, tasty, colby, anything that melts (shred yourself) (Note 6)"
+Cabbage & Carrot Thoran-style Indian Salad,5,coconut oil,2,tbsp,unrefined (Note 1)
+Cabbage & Carrot Thoran-style Indian Salad,5,black mustard seeds,3/4,tsp,(Note 2)
+Cabbage & Carrot Thoran-style Indian Salad,5,cumin seeds,3/4,tsp,
+Cabbage & Carrot Thoran-style Indian Salad,5,eschalots (USA: shallots),3,,finely diced (Note 3)
+Cabbage & Carrot Thoran-style Indian Salad,5,onion,1/2,,"(large), finely diced"
+Cabbage & Carrot Thoran-style Indian Salad,5,garlic cloves,3,,finely minced
+Cabbage & Carrot Thoran-style Indian Salad,5,green chilli,1,,deseeded and finely chopped (Note 4)
+Cabbage & Carrot Thoran-style Indian Salad,5,curry leaves,12,,fresh (Note 5)
+Cabbage & Carrot Thoran-style Indian Salad,5,tumeric powder,1/2,tsp,
+Cabbage & Carrot Thoran-style Indian Salad,5,desiccated coconut,1/2,cup,unsweetened (Note 6)
+Cabbage & Carrot Thoran-style Indian Salad,5,water,1/2,cup,
+Cabbage & Carrot Thoran-style Indian Salad,5,salt,3/4,tsp,
+Cabbage & Carrot Thoran-style Indian Salad,5,small red cabbage,1/4,,very finely sliced (~6 cups)
+Cabbage & Carrot Thoran-style Indian Salad,5,small carrots or 1 very large carrot,2,,peeled and finely shredded
+Cabbage & Carrot Thoran-style Indian Salad,5,fresh coriander/cilantro leaves,1/4,cup,roughly chopped
+Palak Paneer – Indian Spinach Curry with Cheese,6,batch homemade Paneer,1,,(Indian fresh cheese; recipe linked below)
+Palak Paneer – Indian Spinach Curry with Cheese,6,ghee or unsalted butter,30g / 2 tbsp,,"(for pan frying, Note 2)"
+Palak Paneer – Indian Spinach Curry with Cheese,6,ghee or unsalted butter,30g/2 tbsp,,(Note 2)
+Palak Paneer – Indian Spinach Curry with Cheese,6,onions,1 1/2,,finely chopped (brown or yellow)
+Palak Paneer – Indian Spinach Curry with Cheese,6,fenugreek seeds (whole),1,tsp,(Note 3)
+Palak Paneer – Indian Spinach Curry with Cheese,6,ground cumin,1,tsp,
+Palak Paneer – Indian Spinach Curry with Cheese,6,ground coriander,1,tsp,
+Palak Paneer – Indian Spinach Curry with Cheese,6,salt,3/4,tsp,"kosher/cooking salt (if using table salt, reduce by 1/4 tsp)"
+Palak Paneer – Indian Spinach Curry with Cheese,6,black pepper,1/4,tsp,
+Palak Paneer – Indian Spinach Curry with Cheese,6,garlic cloves,2,,finely chopped
+Palak Paneer – Indian Spinach Curry with Cheese,6,ginger,2,tsp,finely grated (20g)
+Palak Paneer – Indian Spinach Curry with Cheese,6,tomatoes,2,,"peeled, seeded and diced (Note 4)"
+Palak Paneer – Indian Spinach Curry with Cheese,6,green chilli,1,,"finely sliced (cayenne, Note 5)"
+Palak Paneer – Indian Spinach Curry with Cheese,6,fresh spinach leaves (English spinach),700g/ 1.4lb,,thoroughly washed and roughly chopped (~9 cups very tightly packed) (Note 6)
+Palak Paneer – Indian Spinach Curry with Cheese,6,water,1/4,cup,
+Palak Paneer – Indian Spinach Curry with Cheese,6,cream,1/3 cup + 1 tbsp,,"(pure, heavy or thickened)"
+Palak Paneer – Indian Spinach Curry with Cheese,6,lemon juice,1,tbsp,
+Goan Fish Curry (Indian),4,Kashmiri chilli powder,2 1/2,tbsp,(Note 1)
+Goan Fish Curry (Indian),4,coriander,1,tbsp,
+Goan Fish Curry (Indian),4,cumin,2,tsp,
+Goan Fish Curry (Indian),4,turmeric,1,tsp,
+Goan Fish Curry (Indian),4,fenugreek powder,1/2,tsp,(Note 2)
+Goan Fish Curry (Indian),4,ground cloves,3/8,tsp,
+Goan Fish Curry (Indian),4,garlic,6,cloves,minced
+Goan Fish Curry (Indian),4,fresh ginger,1,tbsp,finely grated
+Goan Fish Curry (Indian),4,tamarind puree,2,tbsp,(Note 3)
+Goan Fish Curry (Indian),4,red onion,1/2,,chopped
+Goan Fish Curry (Indian),4,water,6,tbsp,"(plus more, as needed)"
+Goan Fish Curry (Indian),4,vegetable oil,3,tbsp,
+Goan Fish Curry (Indian),4,black mustard seeds,1/2,tsp,(Note 4)
+Goan Fish Curry (Indian),4,red onion,1/2,,cut in half again (like a quartered orange) and thinly sliced
+Goan Fish Curry (Indian),4,tomato paste,1,tbsp,
+Goan Fish Curry (Indian),4,canned tomato pulp/polp,2/3,cup,"(Mutti), OR tomato passata or crushed tomato, Note 5)"
+Goan Fish Curry (Indian),4,water,2/3,cup,
+Goan Fish Curry (Indian),4,coconut milk,400ml/ 14oz,,full fat (Note 6)
+Goan Fish Curry (Indian),4,salt,1 1/4,tsp,cooking/kosher (or 3/4 tsp fine table salt)
+Goan Fish Curry (Indian),4,sugar,1 1/2,tsp,
+Goan Fish Curry (Indian),4,chilli powder,1/4,tsp,"(pure chilli, not US Chili Powder which is a mix, Note 7)"
+Goan Fish Curry (Indian),4,long green chillies,2,,"cut into half lengthwise and deseeded, optional (Note 8)"
+Goan Fish Curry (Indian),4,tomato,1,,"cut into 8 wedges then into 2.5cm / 1"" chunks"
+Goan Fish Curry (Indian),4,firm-fleshed white fish,600g / 1.2 lb,,"cut into 3cm / 1.25"" cubes (Note 9)"
+Goan Fish Curry (Indian),4,fresh coriander/cilantro leaves,1/4,cup,
+Goan Fish Curry (Indian),4,Finely sliced green chillies,,,optional
+Goan Fish Curry (Indian),4,Basmati rice,,,
+Vegetable Samosa Pie,6,potato,700g / 1.4lb,,"cut into 2cm / 4/5"" pieces"
+Vegetable Samosa Pie,6,vegetable oil,3,tbsp,
+Vegetable Samosa Pie,6,black mustard seeds,1.5,tsp,(Note 1)
+Vegetable Samosa Pie,6,cumin seeds,1,tsp,(Note 2)
+Vegetable Samosa Pie,6,fennel seeds,1,tsp,(Note 2)
+Vegetable Samosa Pie,6,curry leaves,15,,fresh (Note 3)
+Vegetable Samosa Pie,6,garlic,1,tbsp,finely grated
+Vegetable Samosa Pie,6,ginger,1,tbsp,finely grated
+Vegetable Samosa Pie,6,onion,1,,"finely chopped (brown, white, yellow)"
+Vegetable Samosa Pie,6,turmeric powder,1/2,tsp,
+Vegetable Samosa Pie,6,curry powder,2,tsp,(Note 4)
+Vegetable Samosa Pie,6,chilli powder,1/2,tsp,"adjust spiciness to taste ((pure ground, not US Chili Spice Mi, sub cayenne)"
+Vegetable Samosa Pie,6,tomato paste,1,tbsp,
+Vegetable Samosa Pie,6,tomato *,1,,"chopped into 1.5cm / 1/2"" pieces"
+Vegetable Samosa Pie,6,zucchini *,1,,"chopped into 1.5cm / 1/2"" pieces"
+Vegetable Samosa Pie,6,carrot *,1,,"chopped into 1.5cm / 1/2"" pieces"
+Vegetable Samosa Pie,6,cauliflower *,1/2,,"(small), cut/broken into small florets (~ 3 cups)"
+Vegetable Samosa Pie,6,black pepper,1/2,tsp,
+Vegetable Samosa Pie,6,salt,1,tsp,
+Vegetable Samosa Pie,6,water,2,cups,
+Vegetable Samosa Pie,6,frozen green peas *,1,cup,
+Vegetable Samosa Pie,6,sheets puff pastry,2,,(Note 5)
+Vegetable Samosa Pie,6,egg,1,,lightly whisked
+Vegetable Samosa Pie,6,Plain yogurt,,,
+Vegetable Samosa Pie,6,Coriander/cilantro leaves,,,"option (decorative only, pictured)"
+Eggplant Curry - South Indian Brinjal Curry,4,vegetable oil,2,tbsp,(or canola)
+Eggplant Curry - South Indian Brinjal Curry,4,eggplant (aubergine),700g / 1.2 lb,,2 medium (Note 1)
+Eggplant Curry - South Indian Brinjal Curry,4,each salt and pepper,1/2,tsp,
+Eggplant Curry - South Indian Brinjal Curry,4,vegetable oil,3,tbsp,(or canola)
+Eggplant Curry - South Indian Brinjal Curry,4,black mustard seeds,3/4,tsp,(Note 2)
+Eggplant Curry - South Indian Brinjal Curry,4,"curry leaves, fresh",14,,(Note 3)
+Eggplant Curry - South Indian Brinjal Curry,4,red onion,1,,quartered and thinly sliced
+Eggplant Curry - South Indian Brinjal Curry,4,passata or tomato pulp (or canned tomato),3,tbsp,(Note 4)
+Eggplant Curry - South Indian Brinjal Curry,4,garlic,1,tbsp,grated (4 cloves approx)
+Eggplant Curry - South Indian Brinjal Curry,4,ginger,1,tbsp,grated (1.5cm piece approx)
+Eggplant Curry - South Indian Brinjal Curry,4,water,1 1/4,cups,
+Eggplant Curry - South Indian Brinjal Curry,4,salt,3/4,tsp,
+Eggplant Curry - South Indian Brinjal Curry,4,coconut milk,3,tbsp,"or cream, full fat (Note 5)"
+Eggplant Curry - South Indian Brinjal Curry,4,cardamom powder,1/4,tsp,
+Eggplant Curry - South Indian Brinjal Curry,4,ground clove,1/4,tsp,
+Eggplant Curry - South Indian Brinjal Curry,4,black pepper,1/4,tsp,
+Eggplant Curry - South Indian Brinjal Curry,4,chilli powder,1/2,tsp,or cayenne (NOT US Chilli Powder)
+Eggplant Curry - South Indian Brinjal Curry,4,coriander powder,4,tsp,
+Eggplant Curry - South Indian Brinjal Curry,4,cumin powder,4,tsp,
+Eggplant Curry - South Indian Brinjal Curry,4,Basmati rice,,,
+Eggplant Curry - South Indian Brinjal Curry,4,Yogurt,,,highly recommended
+Eggplant Curry - South Indian Brinjal Curry,4,Coriander/cilantro leaves,,,optional
+Eggplant Curry - South Indian Brinjal Curry,4,Easy flatbread (as naan!),,,optional
+Lentil Curry - mega flavour lentil recipe!,5,butter,50g (3 tbsp),,unsalted (sub 2 tbsp neutral oil)
+Lentil Curry - mega flavour lentil recipe!,5,garlic cloves,4,,finely minced (Note 1)
+Lentil Curry - mega flavour lentil recipe!,5,ginger,1.5,tbsp,finely minced  (Note 1)
+Lentil Curry - mega flavour lentil recipe!,5,onion,1,,"finely chopped (white, yellow, brown)"
+Lentil Curry - mega flavour lentil recipe!,5,curry powder,2,tbsp,mild or spicy (your choice!) (Note 2)
+Lentil Curry - mega flavour lentil recipe!,5,tumeric powder,1/2,tsp,
+Lentil Curry - mega flavour lentil recipe!,5,cayenne pepper,1/2,tsp,optional
+Lentil Curry - mega flavour lentil recipe!,5,salt,1 1/4,tsp,
+Lentil Curry - mega flavour lentil recipe!,5,black pepper,1/2,tsp,
+Lentil Curry - mega flavour lentil recipe!,5,dried lentils,1,cup,"green or brown (or any other dried lentils or split peas, Note 3)"
+Lentil Curry - mega flavour lentil recipe!,5,coconut milk,400 ml / 14 oz,,full fat
+Lentil Curry - mega flavour lentil recipe!,5,canned tomato,400g/ 14 oz,,crushed or diced
+Lentil Curry - mega flavour lentil recipe!,5,water,3 cups (750 ml),,
+Lentil Curry - mega flavour lentil recipe!,5,coriander/cilantro,1/2,cup,finely chopped
+Lentil Curry - mega flavour lentil recipe!,5,Yogurt,,,optional
+Lentil Curry - mega flavour lentil recipe!,5,Basmati rice,,,(or other rice)
+How to cook Basmati Rice,3,uncooked basmati rice,1,cup,(Note 1)
+How to cook Basmati Rice,3,water,1 1/2,cups,(just cold tap water)
+Rogan Josh,4,ghee,3.5,tbsp,substitute butter (Note 1)
+Rogan Josh,4,cinnamon stick,1,,
+Rogan Josh,4,green cardamom pods,6,,lightly bruised
+Rogan Josh,4,cloves,4,,
+Rogan Josh,4,large onion,1,,finely chopped
+Rogan Josh,4,garlic,3,cloves,finely minced
+Rogan Josh,4,ginger,1,tbsp,finely grated
+Rogan Josh,4,tomato passata,5,tbsp,"(US: tomato puree/sauce, Note 5)"
+Rogan Josh,4,salt,1,tsp,
+Rogan Josh,4,boneless lamb shoulder,750g/1.5lb,,"cut into 3cm/1.2"" cubes (Note 6)"
+Rogan Josh,4,chicken stock,1.5 cups / 375ml,,salt reduced (broth)
+Rogan Josh,4,paprika,2,tbsp,normal or sweet
+Rogan Josh,4,chilli powder,3/4,tsp,"(or to taste, Note 2)"
+Rogan Josh,4,ground coriander,4,tsp,
+Rogan Josh,4,ground cumin,4,tsp,
+Rogan Josh,4,turmeric powder,2,tsp,
+Rogan Josh,4,nutmeg,1/4,tsp,
+Rogan Josh,4,garam marsala,1,tsp,(Note 3)
+Rogan Josh,4,fennel powder,1/2,tsp,(Note 4)
+Rogan Josh,4,extra garam masala,1/2,tsp,(Note 3)
+Rogan Josh,4,extra fennel powder,1/2,tsp,
+Rogan Josh,4,plain yoghurt,1/2 cup / 125g,,(Greek yogurt fine)
+Rogan Josh,4,"Chopped coriander leaves, finely shredded ginger, yogurt",,,
+Rogan Josh,4,Basmati rice,,,
+Oven Baked Tandoori Chicken,5,plain yoghurt,1 1/2,cups,(full fat best)
+Oven Baked Tandoori Chicken,5,oil,2,tbsp,(any)
+Oven Baked Tandoori Chicken,5,lemon juice,1 1/2,tbsp,
+Oven Baked Tandoori Chicken,5,ginger,2,tsp,grated
+Oven Baked Tandoori Chicken,5,garlic cloves,5,,minced
+Oven Baked Tandoori Chicken,5,garam masala spice mix,3,tsp,(Note 1)
+Oven Baked Tandoori Chicken,5,kashmiri chilli powder,1.5,tbsp,(Note 2 subs)
+Oven Baked Tandoori Chicken,5,turmeric powder,1,tsp,
+Oven Baked Tandoori Chicken,5,cumin,2,tsp,
+Oven Baked Tandoori Chicken,5,coriander powder,2 1/2,tsp,
+Oven Baked Tandoori Chicken,5,"chilli powder, adjust to taste",1/2,tsp,"(pure, not US chili Note 3)"
+Oven Baked Tandoori Chicken,5,salt,1,tsp,
+Oven Baked Tandoori Chicken,5,"drumsticks,  bone-in skin on chicken thighs or Marylands (whole chicken legs)",1.2kg / 2.4lb,,(Note 4)
+Oven Baked Tandoori Chicken,5,Oil spray,,,
+Oven Baked Tandoori Chicken,5,plain yoghurt,1,cup,
+Oven Baked Tandoori Chicken,5,"mint leaves, packed",1/2,cup,
+Oven Baked Tandoori Chicken,5,Salt and pepper,,,
+Oven Baked Tandoori Chicken,5,Olive oil,,,
+Oven Baked Tandoori Chicken,5,Basmati rice,,,OR Saffron rice (see note)
+Chickpea Curry with Potato (Chana Aloo Curry),5,curry powder,2,tbsp,(Note 3)
+Chickpea Curry with Potato (Chana Aloo Curry),5,All Spice powder,1,tsp,
+Chickpea Curry with Potato (Chana Aloo Curry),5,nutmeg powder,1,tsp,(or 1/2 tsp freshly grated)
+Chickpea Curry with Potato (Chana Aloo Curry),5,smoked paprika,1 1/2,tsp,(or normal or sweet)
+Chickpea Curry with Potato (Chana Aloo Curry),5,dried thyme leaves,2,tsp,(or 3 tsp fresh)
+Chickpea Curry with Potato (Chana Aloo Curry),5,cumin powder,1,tsp,
+Chickpea Curry with Potato (Chana Aloo Curry),5,cayenne pepper,3/4,tsp,
+Chickpea Curry with Potato (Chana Aloo Curry),5,white pepper,1,tsp,(or 1/2 tsp black pepper)
+Chickpea Curry with Potato (Chana Aloo Curry),5,cooking oil,3 tbsp (65ml),,(I used vegetable)
+Chickpea Curry with Potato (Chana Aloo Curry),5,large garlic cloves,2,,minced
+Chickpea Curry with Potato (Chana Aloo Curry),5,large onion,1,,"diced (brown, white, yellow)"
+Chickpea Curry with Potato (Chana Aloo Curry),5,potatoes,1 1/2 cups (225g),,"cut into 1.2cm / 1/2"" cubes"
+Chickpea Curry with Potato (Chana Aloo Curry),5,canned chickpeas (2 x 14oz/400g cans),28 oz / 800g,,drained (Note 3)
+Chickpea Curry with Potato (Chana Aloo Curry),5,canned crushed tomatoes,14 oz / 400g,,
+Chickpea Curry with Potato (Chana Aloo Curry),5,vegetable or chicken broth/stock,2 cups (500ml),,
+Chickpea Curry with Potato (Chana Aloo Curry),5,scallion/shallot stems,2,,sliced (green & white part)
+Chickpea Curry with Potato (Chana Aloo Curry),5,fresh parsley,2,tbsp,finely chopped (or coriander/cilantro)
+Chickpea Curry with Potato (Chana Aloo Curry),5,Salt to taste,,,
+Chickpea Curry with Potato (Chana Aloo Curry),5,Basmati rice,,,
+Chickpea Curry with Potato (Chana Aloo Curry),5,White rice,,,
+Curried Rice,6,yellow curry powder,3,tsp,(Note 1)
+Curried Rice,6,cumin,1,tsp,
+Curried Rice,6,coriander,1,tsp,
+Curried Rice,6,paprika,1/2,tsp,
+Curried Rice,6,chilli powder,1/2,tsp,(adjust spiciness to taste) (Note 2)
+Curried Rice,6,butter,40g (3 tbsp),,(or ghee or oil) (Note 3)
+Curried Rice,6,onion,1,,finely chopped
+Curried Rice,6,garlic cloves,3,,minced
+Curried Rice,6,ginger,2,tsp,finely chopped or grated
+Curried Rice,6,uncooked basmati rice,1 1/2 cups (275g) ,,(Note 4)
+Curried Rice,6,small carrot,2,,peeled and grated
+Curried Rice,6,"chicken or vegetable broth, low sodium",2 1/4 cups (560 ml) ,,(Note 5)
+Curried Rice,6,frozen peas,2 cups (300g),,
+Curried Rice,6,salt,1 1/4,tsp,
+Curried Rice,6,black pepper,1/2,tsp,
+Curried Rice,6,cashews,1 cup (150g),,"roasted, unsalted"
+Curried Rice,6,coriander/cilantro leaves,1/2,cup,finely chopped
+Curried Rice,6,Yogurt,,,for serving (optional)
+Butter Chicken,3,plain yoghurt,1/2,cup,full fat
+Butter Chicken,3,lemon juice,1,tbsp,
+Butter Chicken,3,tumeric powder,1,tsp,
+Butter Chicken,3,garam masala ,2,tsp,(Note 1)
+Butter Chicken,3,chilli powder or cayenne pepper powder ,1/2,tsp,(Note 2)
+Butter Chicken,3,ground cumin,1,tsp,
+Butter Chicken,3,"ginger, freshly grated ",1,tbsp,
+Butter Chicken,3,"garlic, crushed",2,cloves,
+Butter Chicken,3,"chicken thigh fillets, cut into bite size pieces",1.5 lb / 750 g ,,
+Butter Chicken,3,"ghee or butter, ",2 tbsp (30 g),,OR 1 tbsp vegetable oil  (Note 3)
+Butter Chicken,3,tomato passata (aka tomato puree),1,cup,(Note 4)
+Butter Chicken,3,heavy / thickened cream,1,cup,(Note 5)
+Butter Chicken,3,sugar,1,tbsp,
+Butter Chicken,3,salt,1 1/4,tsp,
+Butter Chicken,3,Basmati rice,,,
+Butter Chicken,3,White rice,,,
+Butter Chicken,3,Coriander/cilantro (optional),,,
+Indian Tomato Salad with Mint Dressing,4,"large ripe tomatoes,",3,,sliced into rounds
+Indian Tomato Salad with Mint Dressing,4,red onion,1/4,,very thinly sliced
+Indian Tomato Salad with Mint Dressing,4,of garam marsala,1,pinch,to taste (optional)
+Indian Tomato Salad with Mint Dressing,4,plain yoghurt,1 cup / 250g ,,
+Indian Tomato Salad with Mint Dressing,4,mint leaves,2,cups,
+Indian Tomato Salad with Mint Dressing,4,lemon juice,1,tbsp,or to taste
+Indian Tomato Salad with Mint Dressing,4,Couple of pinches of salt,,,
+Indian Tomato Salad with Mint Dressing,4,tbsp+ water,1,,
+Biryani,8,chicken thighs,750g (1.5 lb),,"skin on, bone in, halved along bone (Note 1)"
+Biryani,8,yoghurt,2/3 cup (150 ml),,plain
+Biryani,8,water,1/2 cup (125 ml),,
+Biryani,8,vegetable oil,2,tbsp,(or other plain oil)
+Biryani,8,garlic cloves,6,,minced
+Biryani,8,finely grated fresh ginger,2,tsp,
+Biryani,8,ground turmeric,1/8,tsp,
+Biryani,8,cinnamon,1/4,tsp,
+Biryani,8,cayenne,1/2,tsp,(adjust spiciness to taste)
+Biryani,8,ground cardamom,1/2,tsp,
+Biryani,8,garam marsala,2,tsp,(Note 2)
+Biryani,8,coriander,2,tsp,
+Biryani,8,cumin,1,tbsp,
+Biryani,8,paprika,2,tbsp,sweet / ordinary (not smoked)
+Biryani,8,salt,1 3/4,tsp,
+Biryani,8,salt,2,tbsp,
+Biryani,8,cloves,10,,
+Biryani,8,dried bay leaves,5,,
+Biryani,8,star anise,1,,
+Biryani,8,green cardamon pods,6,,
+Biryani,8,uncooked basmati rice,2 1/4 cups (450g),,(Note 3)
+Biryani,8,"medium onions (yellow, brown)",2,,halved and finely sliced
+Biryani,8,oil,1 cup (250 ml),,for frying
+Biryani,8,saffron threads,1,tsp,(loosely packed) (Note 5)
+Biryani,8,warm water,2,tbsp,
+Biryani,8,coriander / cilantro,1,cup,chopped
+Biryani,8,ghee or unsalted butter,1/4 cup (60g),,melted (Note 6)
+Biryani,8,Crispy onions,,,(above)
+Biryani,8,Chopped coriander / cilantro,,,
+Biryani,8,Yoghurt,,,(Note 7)
+Dal (Indian Lentil Curry),3,ghee,2 tbsp / 30 g,,or 1 tbsp oil + 1 tbsp/15g butter (Note 1)
+Dal (Indian Lentil Curry),3,green cayenne chillies,2,,deseeded and cut into chunks (optional) (Note 2)
+Dal (Indian Lentil Curry),3,medium onion,1,,finely chopped (brown or yellow)
+Dal (Indian Lentil Curry),3,garlic cloves,6,,finely chopped
+Dal (Indian Lentil Curry),3,ginger,1,tbsp,"finely chopped (1.5cm / 3/5"")"
+Dal (Indian Lentil Curry),3,fresh curry leaves,8,,or 6 dried (Note 3)
+Dal (Indian Lentil Curry),3,tomato,1,,chopped
+Dal (Indian Lentil Curry),3,ground cumin,1/2,tsp,
+Dal (Indian Lentil Curry),3,dried chana dal,1,cup,yellow split peas or other yellow lentils (Note 4 for other lentils)
+Dal (Indian Lentil Curry),3,water,4 cups / 1 litre ,,
+Dal (Indian Lentil Curry),3,turmeric powder,1/2,tsp,
+Dal (Indian Lentil Curry),3,garam marsala,1/8,tsp,
+Dal (Indian Lentil Curry),3,salt,3/4,tsp,
+Dal (Indian Lentil Curry),3,ghee,1 1/2 tbsp / 20g ,,or half each butter + oil (Note 1)
+Dal (Indian Lentil Curry),3,eschalot or 1/4 small onion,1,,halved lengthways and sliced (Note 5)
+Dal (Indian Lentil Curry),3,cumin seeds,1,tsp,
+Dal (Indian Lentil Curry),3,black mustard seeds,1/2,tsp,(optional)
+Dal (Indian Lentil Curry),3,dried chillies,3,,"broken in half, seeds removed (optional)"
+Dal (Indian Lentil Curry),3,Fresh coriander/cilantro sprigs,,,(optional)
+Dal (Indian Lentil Curry),3,Steamed basmati rice,,,
+Chicken Tikka Masala,4,chicken thigh,600g/ 1.2lb ,,"(boneless, skinless), cut into 3cm / 2.2"" cubes (Note 1)"
+Chicken Tikka Masala,4,"plain yoghurt,",1/2,cup,full fat best (Greek is fine)
+Chicken Tikka Masala,4,garlic,6,cloves,minced (~1.5 tbsp)
+Chicken Tikka Masala,4,fresh ginger,1,tbsp,grated
+Chicken Tikka Masala,4,garam masala,1,tsp,(Note 2)
+Chicken Tikka Masala,4,"each salt, cumin, ground coriander, paprika (sweet, normal or smokey)",1,tsp,
+Chicken Tikka Masala,4,vegetable oil,1,tbsp,
+Chicken Tikka Masala,4,cayenne pepper,1/8,tsp,(optional)
+Chicken Tikka Masala,4,black pepper,,Pinch,
+Chicken Tikka Masala,4,lemon juice,2,tsp,
+Chicken Tikka Masala,4,oil,1 - 2,tbsp,(Note 3)
+Chicken Tikka Masala,4,turmeric,2,tsp,
+Chicken Tikka Masala,4,garam masala,1,tbsp,(Note 2)
+Chicken Tikka Masala,4,coriander,2,tsp,
+Chicken Tikka Masala,4,cumin,1,tsp,
+Chicken Tikka Masala,4,cardomon powder,1/8,tsp,
+Chicken Tikka Masala,4,cayenne pepper,1/8,tsp,
+Chicken Tikka Masala,4,vegetable oil,3 tbsp (65ml),,(Note 3)
+Chicken Tikka Masala,4,unsalted butter OR ghee,30g / 2 tbsp,,
+Chicken Tikka Masala,4,"onion, finely chopped",1,,"(brown, white or yellow)"
+Chicken Tikka Masala,4,salt,1,tsp,
+Chicken Tikka Masala,4,fresh ginger,2,tbsp,grated
+Chicken Tikka Masala,4,garlic,6,cloves,crushed or grated
+Chicken Tikka Masala,4,paprika,1,tbsp,(not smoked)
+Chicken Tikka Masala,4,tomato passata,1 2/3 cups (400ml),,(tomato puree)
+Chicken Tikka Masala,4,water,1 2/3 cups (400ml),,
+Chicken Tikka Masala,4,cream,100 ml (1/3 cup + 1 tbsp),,(thickened or pure is fine)
+Chicken Tikka Masala,4,sugar,1,tsp,
+Chicken Tikka Masala,4,unsalted butter OR ghee,50g / 3 tbsp ,,
+Chicken Tikka Masala,4,Basmati rice,,,
+Vegetable Curry,5,curry powder,2,tbsp,mild or hot (Note 1)
+Vegetable Curry,5,All Spice powder,1,tsp,
+Vegetable Curry,5,nutmeg powder,1,tsp,(or 1/2 tsp freshly grated nutmeg)
+Vegetable Curry,5,smoked paprika,1 1/2,tsp,(sub with sweet or ordinary paprika)
+Vegetable Curry,5,dried thyme leaves,2,tsp,(or 3 tsp fresh thyme leaves)
+Vegetable Curry,5,cumin powder,1,tsp,
+Vegetable Curry,5,cayenne pepper,3/4,tsp,(adjust to taste)
+Vegetable Curry,5,pepper,1,tsp,(white or black)
+Vegetable Curry,5,cooking oil,3,tbsp,
+Vegetable Curry,5,large onion,1,,"diced (brown, white, yellow)"
+Vegetable Curry,5,large red chilli / cayenne pepper,1,,deseeded and finely sliced
+Vegetable Curry,5,large garlic cloves,2,,minced
+Vegetable Curry,5,large red capsicum / bell pepper *,1,,"chopped into 1.7cm / 2/3"" pieces (~1.5 cups)"
+Vegetable Curry,5,canned crushed tomato,800g/ 28 oz,,
+Vegetable Curry,5,vegetable or chicken broth,2 cups (500 ml),,
+Vegetable Curry,5,zucchini,1,,diced (~1 cup) *
+Vegetable Curry,5,sweet potato *,2,cups,"1.5cm / 3/5"" cubes (~225g/7.5oz)"
+Vegetable Curry,5,cauliflower florets *,2,cups,small / medium (~180g/6oz)
+Vegetable Curry,5,frozen peas *,3/4,cup,
+Vegetable Curry,5,handfuls baby spinach,2,,optional (Note 2)
+Vegetable Curry,5,finely chopped coriander/cilantro,1/2,cup,"(leaves and stems), plus more for garnish"
+Vegetable Curry,5,Salt and pepper,,,
+Vegetable Curry,5,Yoghurt,,,(plain or Greek)
+Vegetable Curry,5,Basmati rice,,,
+Vegetable Curry,5,White rice,,,
+Cauliflower and Chickpea Curry,4,vegetable oil,4,tbsp,
+Cauliflower and Chickpea Curry,4,ginger,1,tbsp,finely grated
+Cauliflower and Chickpea Curry,4,large garlic cloves,3,,minced.
+Cauliflower and Chickpea Curry,4,large onion,1,,"chopped (brown, white, yellow)"
+Cauliflower and Chickpea Curry,4,coriander powder,3,tsp,
+Cauliflower and Chickpea Curry,4,tumeric powder,1/4,tsp,
+Cauliflower and Chickpea Curry,4,cumin powder,1,tsp,
+Cauliflower and Chickpea Curry,4,paprika,2,tsp,
+Cauliflower and Chickpea Curry,4,chicken stock,1 1/2,cups,
+Cauliflower and Chickpea Curry,4,/ 28 oz can crushed tomato,800,g,
+Cauliflower and Chickpea Curry,4,/ 4 cups,300,g,packed cauliflower small florets (1 small / 1/2 large cauliflower)
+Cauliflower and Chickpea Curry,4,/ 14 oz can chickpeas,400,g,drained
+Cauliflower and Chickpea Curry,4,Salt,,,
+Cauliflower and Chickpea Curry,4,sugar - optional,1,tsp,Note 1
+Cauliflower and Chickpea Curry,4,frozen peas,3/4,cup,75g
+Cauliflower and Chickpea Curry,4,garam masala powder,3,tsp,Note 2
+Cauliflower and Chickpea Curry,4,coriander / cilantro leaves,1/4,cup,chopped
+Cauliflower and Chickpea Curry,4,Yoghurt,,,to serve (highly recommended)
+Qeema Indian Curried Beef,4,oil,3,tbsp,(any other than olive oil) (Note 1)
+Qeema Indian Curried Beef,4,ginger,4,tsp,finely chopped
+Qeema Indian Curried Beef,4,large garlic cloves,5,,minced (about 4 tsp minced garlic)
+Qeema Indian Curried Beef,4,large onion,1,,finely diced (about 1 cup of onion)
+Qeema Indian Curried Beef,4,ground beef,1 lb /500g ,,(mince)
+Qeema Indian Curried Beef,4,salt,3/4,tsp,(I use table salt)
+Qeema Indian Curried Beef,4,red chilli powder or cayenne pepper,1 - 1 1/2,tsp,(Note 2)
+Qeema Indian Curried Beef,4,garam masala,1 1/4,tsp,(Note 3)
+Qeema Indian Curried Beef,4,cumin powder,1 1/4,tsp,
+Qeema Indian Curried Beef,4,coriander powder,1 1/4,tsp,
+Qeema Indian Curried Beef,4,turmeric powder,1/2,tsp,
+Qeema Indian Curried Beef,4,water,1,cup,
+Qeema Indian Curried Beef,4,red chili flakes,1/2,tsp,
+Qeema Indian Curried Beef,4,Cilantro/coriander leaves,,,
+Aloo Paratha (Indian Potato Stuffed Flatbread),4,plain white flour,2 1/2,cups,(Note 1)
+Aloo Paratha (Indian Potato Stuffed Flatbread),4,salt,1,tsp,
+Aloo Paratha (Indian Potato Stuffed Flatbread),4,water,1,cup,(Note 2)
+Aloo Paratha (Indian Potato Stuffed Flatbread),4,vegetable oil,2,tbsp,"(or any other cooking oil), ghee or butter"
+Aloo Paratha (Indian Potato Stuffed Flatbread),4,mashed potato,1 1/2,cups,(Notes 3 and 4)
+Aloo Paratha (Indian Potato Stuffed Flatbread),4,shallots/scallions,1/2,cup,chopped
+Aloo Paratha (Indian Potato Stuffed Flatbread),4,fresh coriander/cilantro,2,tbsp,roughly chopped (optional - adds a nice burst of freshness)
+Aloo Paratha (Indian Potato Stuffed Flatbread),4,fresh ginger,1/2,tsp,grated (optional - Note 5)
+Aloo Paratha (Indian Potato Stuffed Flatbread),4,Garam Masala,1,tsp,(Note 6)
+Aloo Paratha (Indian Potato Stuffed Flatbread),4,Ajwain/ Carom seeds OR 1 tsp thyme,1,tsp,(Note 7)
+Aloo Paratha (Indian Potato Stuffed Flatbread),4,chili powder,1/4,tsp,(Note 8)
+Aloo Paratha (Indian Potato Stuffed Flatbread),4,salt,1/2,tsp,

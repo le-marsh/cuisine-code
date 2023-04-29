@@ -1,0 +1,522 @@
+,amount,meal,name,notes,unit
+0,1,Chicken Tagine,"dried apricot, halved",(Note 1),cup
+1,6,Chicken Tagine,chicken thighs,bone-in skin-on (Note 2),x 220g / 7 oz
+2,3/4,Chicken Tagine,salt,(cooking/kosher salt),tsp
+3,2,Chicken Tagine,olive oil,,tbsp
+4,1,Chicken Tagine,onion,"(brown/yellow), cut into 0.3 cm/ 1/8"" slices",
+5,2,Chicken Tagine,garlic cloves,finely minced,
+6,1,Chicken Tagine,cinnamon stick,(sub 1/2 tsp powder),
+7,400 g / 14 oz,Chicken Tagine,crushed tomato,(1 can),
+8,400g / 14 oz,Chicken Tagine,canned chickpeas,drained (Note 10),
+9,1,Chicken Tagine,preserved lemon skin,finely minced (Note 3),tbsp
+10,2 1/2,Chicken Tagine,"chicken stock, low-sodium",(or homemade),cups
+11,1,Chicken Tagine,cooking salt,,tsp
+12,3/4,Chicken Tagine,ground cumin,,tsp
+13,3/4,Chicken Tagine,ground ginger,,tsp
+14,3/4,Chicken Tagine,black pepper,,tsp
+15,1/2,Chicken Tagine,allspice powder,,tsp
+16,1/4,Chicken Tagine,cinnamon powder,,tsp
+17,1/4,Chicken Tagine,coriander powder,,tsp
+18,1/8,Chicken Tagine,clove powder,,tsp
+19,,Chicken Tagine,Couscous – plain or with fruit and/or nuts,(recipe here),
+20,2,Chicken Tagine,fresh coriander,roughly chopped,tbsp
+21,1,Chicken Tagine,kalamata olives ,(instead of apricots) (Note 7),cup
+22,1/3,Chicken Tagine,slivered almonds,"lightly toasted, for garnish (Note 8)",cup
+23,1 kg / 2 lb,Chicken Shawarma (Middle Eastern),chicken thigh fillets,skinless and boneless (Note 3),
+24,1,Chicken Shawarma (Middle Eastern),large garlic clove,minced (or 2 small cloves),
+25,1,Chicken Shawarma (Middle Eastern),ground coriander,,tbsp
+26,1,Chicken Shawarma (Middle Eastern),ground cumin,,tbsp
+27,1,Chicken Shawarma (Middle Eastern),ground cardamon,,tbsp
+28,1,Chicken Shawarma (Middle Eastern),ground cayenne pepper,(reduce to 1/2 tsp to make it not spicy),tsp
+29,2,Chicken Shawarma (Middle Eastern),smoked paprika,,tsp
+30,2,Chicken Shawarma (Middle Eastern),salt,,tsp
+31,,Chicken Shawarma (Middle Eastern),Black pepper,,
+32,2,Chicken Shawarma (Middle Eastern),lemon juice,,tbsp
+33,3,Chicken Shawarma (Middle Eastern),olive oil,,tbsp
+34,1,Chicken Shawarma (Middle Eastern),Greek yoghurt,,cup
+35,1,Chicken Shawarma (Middle Eastern),garlic,crushed,clove
+36,1,Chicken Shawarma (Middle Eastern),cumin,,tsp
+37,,Chicken Shawarma (Middle Eastern),Squeeze of lemon juice,,
+38,,Chicken Shawarma (Middle Eastern),Salt and pepper,,
+39,4,Chicken Shawarma (Middle Eastern),flatbreads,(Lebanese or pita bread orhomemade soft flatbreads),– 5
+40,,Chicken Shawarma (Middle Eastern),Sliced lettuce,(cos or iceberg),
+41,,Chicken Shawarma (Middle Eastern),Tomato slices,,
+42,,Chicken Shawarma (Middle Eastern),Red onion,finely sliced,
+43,,Chicken Shawarma (Middle Eastern),Cheese,shredded (optional),
+44,,Chicken Shawarma (Middle Eastern),Hot sauce of choice,(optional),
+45,1,Vegetable Tagine,cardamom powder,,tbsp
+46,1,Vegetable Tagine,coriander powder,,tbsp
+47,1,Vegetable Tagine,cumin powder,,tbsp
+48,1 1/2,Vegetable Tagine,ground fennel seeds / fennel powder,,tsp
+49,1,Vegetable Tagine,cayenne,(omit for non-spicy),tsp
+50,2,Vegetable Tagine,turmeric,,tsp
+51,1/4,Vegetable Tagine,ground cloves,,tsp
+52,1/4,Vegetable Tagine,ground ginger,,tsp
+53,5,Vegetable Tagine,olive oil,,tbsp
+54,1/2,Vegetable Tagine,red onion,sliced; (sub any type of onion),
+55,1,Vegetable Tagine,garlic clove,finely minced,
+56,800g/1.6lb,Vegetable Tagine,butternut pumpkin / squash,"(1/2 a small), peeled, cut into 2.5cm / 1"" cubes",
+57,1,Vegetable Tagine,small eggplant,cut into 2.5cm / 1/2″ cubes,
+58,1/2,Vegetable Tagine,cauliflower head,"small, cut into bite size florets",
+59,1,Vegetable Tagine,capsicum / bell pepper,"cut into 2.5cm / 1"" pieces (red or yellow)",
+60,2,Vegetable Tagine,tomatoes,"seeds removed, cut into 1cm / 1/3″ dice",
+61,3 1/2 cups,Vegetable Tagine,water,,
+62,2,Vegetable Tagine,salt,,tsp
+63,1/2,Vegetable Tagine,black pepper,,tsp
+64,400g/ 14oz,Vegetable Tagine,canned chickpeas,drained,
+65,200g / 60z,Vegetable Tagine,green beans,"cut into 3.5cm / 1.5"" pieces (~2 cups cut)",
+66,,Vegetable Tagine,Zest of 1 lemon,,
+67,2,Vegetable Tagine,lemon juice,,tbsp
+68,1/2,Vegetable Tagine,slivered almonds,toasted,cup
+69,1/4,Vegetable Tagine,coriander / cilantro,roughly chopped,cup
+70,,Vegetable Tagine,Plain yogurt,,
+71,,Vegetable Tagine,of paprika or cayenne pepper,,Pinch
+72,2,Couscous,couscous,,cups
+73,2,Couscous,chicken or vegetable stock,low sodium,cups
+74,1,Couscous,extra virgin olive oil,,tbsp
+75,1,Couscous,lemon juice,,tbsp
+76,1/2,Couscous,salt,,tsp
+77,2,Couscous,coriander/cilantro,finely chopped,tbsp
+78,2,Couscous,parsley,finely chopped,tbsp
+79,1/3,Couscous,dried apricots,chopped,cup
+80,1/3,Couscous,currants or sultanas,,cup
+81,2,Couscous,slivered almonds,toasted,tbsp
+82,1,Yotam Ottolenghi's Cauliflower Salad,large cauliflower or 2 small,cut/broken into florets (~650g / 1.3 lb florets),
+83,2,Yotam Ottolenghi's Cauliflower Salad,extra virgin olive oil,,tbsp
+84,1/2,Yotam Ottolenghi's Cauliflower Salad,each salt and pepper,,tsp
+85,1,Yotam Ottolenghi's Cauliflower Salad,celery stalk,"cut into 0.5cm /  0.3"" slices on the diagonal",
+86,1/3,Yotam Ottolenghi's Cauliflower Salad,hazelnuts,"raw, skin on",cup
+87,1/2,Yotam Ottolenghi's Cauliflower Salad,pomegranate,seeds only (~1/3 cup),
+88,1,Yotam Ottolenghi's Cauliflower Salad,parsley leaves,lightly packed,cup
+89,2,Yotam Ottolenghi's Cauliflower Salad,extra virgin olive oil,,tbsp
+90,1/3,Yotam Ottolenghi's Cauliflower Salad,cinnamon powder,(Note 2),tsp
+91,1/3,Yotam Ottolenghi's Cauliflower Salad,allspice,(Note 2),tsp
+92,1,Yotam Ottolenghi's Cauliflower Salad,sherry vinegar,,tbsp
+93,1 1/2,Yotam Ottolenghi's Cauliflower Salad,maple syrup,(or honey or golden syrup),tsp
+94,1/4,Yotam Ottolenghi's Cauliflower Salad,each salt and pepper,,tsp
+95,1.2kg / 2.4 lb,Roasted Pumpkin with Yogurt Sauce and Pine Nuts,pumpkin,"skin on seeds in weight (or butternut squash or sweet potato, Note 1)",
+96,2,Roasted Pumpkin with Yogurt Sauce and Pine Nuts,extra virgin olive oil,,tbsp
+97,1,Roasted Pumpkin with Yogurt Sauce and Pine Nuts,garlic clove,finely minced using garlic press,
+98,1/2,Roasted Pumpkin with Yogurt Sauce and Pine Nuts,each salt and pepper,,tsp
+99,3/4,Roasted Pumpkin with Yogurt Sauce and Pine Nuts,Greek yogurt,"(or other plain, non sweet yogurt)",cup
+100,1/2,Roasted Pumpkin with Yogurt Sauce and Pine Nuts,small garlic clove,finely minced using garlic press,
+101,1,Roasted Pumpkin with Yogurt Sauce and Pine Nuts,lemon juice,,tbsp
+102,1,Roasted Pumpkin with Yogurt Sauce and Pine Nuts,extra virgin olive oil,,tbsp
+103,1/4,Roasted Pumpkin with Yogurt Sauce and Pine Nuts,each salt and pepper,,tsp
+104,2,Roasted Pumpkin with Yogurt Sauce and Pine Nuts,pine nuts,(or other nuts of choice),tbsp
+105,2,Roasted Pumpkin with Yogurt Sauce and Pine Nuts,fresh coriander/cilantro leaves,roughly chopped (or parsley),tbsp
+106,1/8,Roasted Pumpkin with Yogurt Sauce and Pine Nuts,sumac,"(paprika or other theme appropriate spice, Note 2)",tsp
+107,1 kg / 2 lb,Doner Kebab Meat - beef or lamb,lamb or beef mince (ground meat),preferably 15% fat (Note 1),
+108,200g / 7oz,Doner Kebab Meat - beef or lamb,streaky bacon,roughly diced (Note 2),
+109,1,Doner Kebab Meat - beef or lamb,onion,"diced (brown, yellow, white)",
+110,2,Doner Kebab Meat - beef or lamb,garlic,roughly chopped,clove
+111,1,Doner Kebab Meat - beef or lamb,vegetable oil,or olive oil (for frying),tbsp
+112,1,Doner Kebab Meat - beef or lamb,dried oregano,,tsp
+113,2,Doner Kebab Meat - beef or lamb,ground cumin,,tsp
+114,2,Doner Kebab Meat - beef or lamb,ground coriander,,tsp
+115,1/2,Doner Kebab Meat - beef or lamb,cinnamon,,tsp
+116,3,Doner Kebab Meat - beef or lamb,salt,kosher/cooking salt (Note 3),tsp
+117,1,Doner Kebab Meat - beef or lamb,black pepper,,tsp
+118,8,Doner Kebab Meat - beef or lamb,flatbreads,(Lebanese bread authentic!),
+119,1,Doner Kebab Meat - beef or lamb,iceberg lettuce,finely shredded,
+120,6,Doner Kebab Meat - beef or lamb,tomatoes,halved and sliced,
+121,2,Doner Kebab Meat - beef or lamb,red onions,finely sliced,
+122,,Doner Kebab Meat - beef or lamb,Hummus,,
+123,,Doner Kebab Meat - beef or lamb,Yogurt sauce,optional (recipe Note 8),
+124,,Doner Kebab Meat - beef or lamb,"More Sauce options: chilli sauce/Sriracha (I use this), BBQ, sweet chilli, tomato sauce/ketchup",,
+125,,Doner Kebab Meat - beef or lamb,"Extra options: tabbouleh, shredded cheese",,
+126,1 lb / 500 g ,Lamb Koftas with Yoghurt Dressing,lamb mince,(ground lamb),
+127,1/2,Lamb Koftas with Yoghurt Dressing,onion,grated,
+128,1/4,Lamb Koftas with Yoghurt Dressing,breadcrumbs,preferably panko,cup
+129,2,Lamb Koftas with Yoghurt Dressing,garlic,crushed,cloves
+130,2,Lamb Koftas with Yoghurt Dressing,chopped fresh coriander,,tbsp
+131,2,Lamb Koftas with Yoghurt Dressing,cumin,,tsp
+132,2,Lamb Koftas with Yoghurt Dressing,coriander,,tsp
+133,2,Lamb Koftas with Yoghurt Dressing,paprika,,tsp
+134,1.5,Lamb Koftas with Yoghurt Dressing,ground cinnamon,,tsp
+135,1,Lamb Koftas with Yoghurt Dressing,cayenne pepper,"(this is a bit spicy, reduce to taste or leave out)",tsp
+136,1 1/2,Lamb Koftas with Yoghurt Dressing,salt,,tsp
+137,1/2,Lamb Koftas with Yoghurt Dressing,black pepper,,
+138,1,Lamb Koftas with Yoghurt Dressing,yogurt,Greek or other thick plain,cup
+139,1,Lamb Koftas with Yoghurt Dressing,extra virgin olive oil,,tbsp
+140,1,Lamb Koftas with Yoghurt Dressing,garlic,crushed,clove
+141,1,Lamb Koftas with Yoghurt Dressing,cumin,,tsp
+142,1,Lamb Koftas with Yoghurt Dressing,lemon juice,,tbsp
+143,1/4,Lamb Koftas with Yoghurt Dressing,salt and pepper,each,tsp
+144,8,Lamb Koftas with Yoghurt Dressing,skewers,(Note 1),
+145,8,Lamb Koftas with Yoghurt Dressing,flatbreads (small),"or 4 large, warmed (homemade or bought, Note 2)",
+146,,Lamb Koftas with Yoghurt Dressing,"Shredded Red Cabbage, Carrot and Mint Salad",(Note 3),
+147,,Lamb Koftas with Yoghurt Dressing,"OR shredded lettuce, tomato and onion slices",(Note 3),
+148,40,Baklava,sheets filo/phyllo pastry,"(2 x 375g or 1 x 1lb pack, Note 1 for pack sizes)",
+149,500g / 1 lb ,Baklava,walnuts,(other nuts Note 2),
+150,285 g / 10 oz ,Baklava,unsalted butter,melted and slightly cooled,
+151,1,Baklava,cinnamon powder,,tsp
+152,1 cup / 200g,Baklava,white sugar,,
+153,2,Baklava,lemon juice,,tbsp
+154,3/4 cup / 185 ml ,Baklava,water,,
+155,1/2 cup / 170 g,Baklava,honey,,
+156,225 g / 8 oz ,Falafel Recipe,dried chick peas,(Note 1),
+157,1,Falafel Recipe,parsley leaves,roughly chopped,cup
+158,1,Falafel Recipe,coriander/cilantro leaves,roughly chopped,cup
+159,6,Falafel Recipe,scallions/shallots,white and light green part only finely chopped (Note 2),
+160,2,Falafel Recipe,of garlic,minced,cloves
+161,1,Falafel Recipe,cumin,,tsp
+162,1/2,Falafel Recipe,coriander,,tsp
+163,1 1/2,Falafel Recipe,salt,,tsp
+164,1/2,Falafel Recipe,baking powder,(Note 3),tsp
+165,4,Falafel Recipe,flour ,(plain/all purpose) OR chickpea flour,tsp
+166,5,Falafel Recipe,water,,tbsp
+167,500 ml / 2 cups+ ,Falafel Recipe,vegetable oil,(Note 4),
+168,4,Falafel Recipe,tahini,,tbsp
+169,2,Falafel Recipe,lemon juice,,tbsp
+170,4,Falafel Recipe,water,,tbsp
+171,1/4,Falafel Recipe,salt,(adjust to taste),tsp
+172,,Falafel Recipe,Pita bread or other flatbreads,,
+173,,Falafel Recipe,Tabbouleh,(recipe below),
+174,,Falafel Recipe,Hummus,(optional extra),
+175,,Falafel Recipe,"Shredded lettuce, tomato slices, sliced red or white onion",,
+176,2,Shakshuka (Middle Eastern Baked Eggs),olive oil,,tbsp
+177,1,Shakshuka (Middle Eastern Baked Eggs),small red onion,"peeled, halved and sliced",
+178,1,Shakshuka (Middle Eastern Baked Eggs),garlic clove,minced,
+179,1,Shakshuka (Middle Eastern Baked Eggs),small red capsicum (bell pepper),halved lengthways and sliced into 0.5cm/1/4” strips,
+180,1,Shakshuka (Middle Eastern Baked Eggs),tomato,diced,
+181,400 g / 14 oz ,Shakshuka (Middle Eastern Baked Eggs),can crushed tomatoes,,
+182,1,Shakshuka (Middle Eastern Baked Eggs),tomato paste,,tbsp
+183,1/2 cup / 125 ml,Shakshuka (Middle Eastern Baked Eggs),chicken or vegetable broth (or water),,
+184,1,Shakshuka (Middle Eastern Baked Eggs),EACH paprika and cumin,,tsp
+185,1/4,Shakshuka (Middle Eastern Baked Eggs),EACH black pepper and cayenne pepper ,"(or other hot spice, adjust to taste)",tsp
+186,1/2,Shakshuka (Middle Eastern Baked Eggs),salt,,tsp
+187,4 eggs,Shakshuka (Middle Eastern Baked Eggs),eggs (up to 6 eggs ok),,
+188,2,Shakshuka (Middle Eastern Baked Eggs),fresh parsley or coriander / cilantro ,roughly chopped,tbsp
+189,,Shakshuka (Middle Eastern Baked Eggs),"Pita or crusty bread, to serve",,
+190,400g / 14 oz,Middle Eastern Chickpea Salad,"can chickpeas, drained but still wet (Note 1)",,
+191,2,Middle Eastern Chickpea Salad,olive oil,,tbsp
+192,1,Middle Eastern Chickpea Salad,ground cumin,,tsp
+193,1 1/2,Middle Eastern Chickpea Salad,All Spice,,tsp
+194,1,Middle Eastern Chickpea Salad,ground cardamon,,tsp
+195,1/4,Middle Eastern Chickpea Salad,salt,,tsp
+196,2,Middle Eastern Chickpea Salad,cucumbers,diced,
+197,2,Middle Eastern Chickpea Salad,tomatoes,"(or 3 medium tomatoes), diced",
+198,1,Middle Eastern Chickpea Salad,red onion (small),diced,
+199,1/4 cup,Middle Eastern Chickpea Salad,coriander leaves,roughly chopped,
+200,1/4 cup,Middle Eastern Chickpea Salad,parsley,roughly chopped,
+201,1 1/2,Middle Eastern Chickpea Salad,sherry vinegar,(Note 2),tbsp
+202,,Middle Eastern Chickpea Salad,Zest of half a lemon,,
+203,2,Middle Eastern Chickpea Salad,lemon juice,,tbsp
+204,1/4,Middle Eastern Chickpea Salad,extra virgin olive oil,,cup
+205,1,Middle Eastern Chickpea Salad,caster sugar,,tsp
+206,1,Middle Eastern Chickpea Salad,"garlic clove, smashed",(Note 3),
+207,,Middle Eastern Chickpea Salad,Salt and pepper,,
+208,2kg / 4 lb,Slow Cooked Lamb Shawarma,lamb shoulder (bone in) or 1.7 kg / 3.5 lb butterflied lamb leg (Note 1),,
+209,3,Slow Cooked Lamb Shawarma,garlic cloves,minced,
+210,1,Slow Cooked Lamb Shawarma,ground coriander,,tbsp
+211,1,Slow Cooked Lamb Shawarma,ground cumin,,tbsp
+212,1,Slow Cooked Lamb Shawarma,ground cardamon,,tbsp
+213,1,Slow Cooked Lamb Shawarma,cayenne pepper,(1/2 tsp = not spicy),tsp
+214,2,Slow Cooked Lamb Shawarma,smoked paprika,(ordinary also ok),tsp
+215,1 1/2,Slow Cooked Lamb Shawarma,salt,,tsp
+216,1/2,Slow Cooked Lamb Shawarma,black pepper,,tsp
+217,1/4 cup / 65 ml ,Slow Cooked Lamb Shawarma,extra virgin olive oil,,
+218,2 - 3 tbsp / 40 - 60 ml ,Slow Cooked Lamb Shawarma,lemon juice,,
+219,2 cups / 500 ml,Slow Cooked Lamb Shawarma,water,,
+220,2,Lamb Shawarma Chickpea Soup,"EACH cumin powder, coriander, paprika",,tsp
+221,1,Lamb Shawarma Chickpea Soup,cardamon powder,(can omit if you don’t have),tsp
+222,¼,Lamb Shawarma Chickpea Soup,cinnamon powder,,tsp
+223,½,Lamb Shawarma Chickpea Soup,cayenne pepper,(adjust to taste),tsp
+224,1/2,Lamb Shawarma Chickpea Soup,black pepper,,tsp
+225,1,Lamb Shawarma Chickpea Soup,salt,,tsp
+226,2,Lamb Shawarma Chickpea Soup,olive oil,,tbsp
+227,2,Lamb Shawarma Chickpea Soup,garlic cloves,minced,
+228,1,Lamb Shawarma Chickpea Soup,onion,finely chopped,
+229,500 g / 1 lb ,Lamb Shawarma Chickpea Soup,lamb mince,"(ground lamb, or beef) (Note 1)",
+230,2,Lamb Shawarma Chickpea Soup,tomato paste,,tbsp
+231,2,Lamb Shawarma Chickpea Soup,carrots,peeled and chopped (about size of chickpeas),
+232,600 g / 21 oz,Lamb Shawarma Chickpea Soup, canned chickpeas,"drained and rinsed (1.5 standard cans, Note 2)",
+233,400 g / 14 oz ,Lamb Shawarma Chickpea Soup,can crushed tomato,,
+234,3 cups / 750 ml ,Lamb Shawarma Chickpea Soup,chicken broth / stock,,
+235,1,Lamb Shawarma Chickpea Soup,bunch spinach,roughly chopped (about 4 packed cups) (wilts a lot),
+236,,Lamb Shawarma Chickpea Soup,Plain yoghurt,(or sour cream),
+237,,Lamb Shawarma Chickpea Soup,Chopped fresh coriander / cilantro,,
+238,400g /  14 oz ,Hummus,canned chickpeas (1 can),drained (reserve liquid and a few chickpeas for garnish) (Dried Chickpeas - Note 1),
+239,1/4,Hummus,liquid from the canned chickpeas,,cup
+240,1,Hummus,medium garlic clove,minced,
+241,1/4,Hummus,fresh lemon juice,,cup
+242,1/2,Hummus,"tahini, hulled ","(sesame paste), mixed well before using (Note 2)",cup
+243,1/3,Hummus,extra virgin olive oil,,cup
+244,,Hummus,Salt and pepper,,
+245,,Hummus,"Pinch of paprika, more olive oil and reserved chickpeas",,
+246,1 lb / 500 g ,Moroccan Lamb Meatballs,lamb mince (ground lamb),(Note 1),
+247,1,Moroccan Lamb Meatballs,"small onion, grated (~1/2 cup, including juices)",,
+248,1/2,Moroccan Lamb Meatballs,"breadcrumbs, I use panko",,cup
+249,1,Moroccan Lamb Meatballs,egg,,
+250,2,Moroccan Lamb Meatballs,"garlic, crushed",,cloves
+251,1/4,Moroccan Lamb Meatballs,"coriander/cilantro leaves and stems, finely chopped",,cup
+252,1,Moroccan Lamb Meatballs,"EACH cumin, coriander, paprika (any, I like smoked)",,tsp
+253,1/2,Moroccan Lamb Meatballs,"EACH cinnamon, cayenne pepper (add more for spicy)",,tsp
+254,1/2,Moroccan Lamb Meatballs,salt,,tsp
+255,,Moroccan Lamb Meatballs,Black pepper,,
+256,1,Moroccan Lamb Meatballs,olive oil,,tbsp
+257,1,Moroccan Lamb Meatballs,plain yoghurt (I use Greek),,cup
+258,1,Moroccan Lamb Meatballs,"garlic, crushed",,clove
+259,2,Moroccan Lamb Meatballs,"fresh mint, finely chopped (or 1 tbsp dried mint)",,tbsp
+260,,Moroccan Lamb Meatballs,Squeeze of lemon juice,,
+261,,Moroccan Lamb Meatballs,"Salt and pepper, to taste",,
+262,4,Moroccan Lamb Meatballs,flatbreads,Lebanese or pita bread,
+263,,Moroccan Lamb Meatballs,"Shredded Red Cabbage, Carrot and Mint Salad",OR lettuce leaves / tomato slices / finely sliced red onion,
+264,,Moroccan Lamb Meatballs,More mint and coriander/cilantro,optional for garnish,
+265,2,Middle Eastern Spiced Lentil and Rice (Mejadra),olive oil,,tbsp
+266,2,Middle Eastern Spiced Lentil and Rice (Mejadra),cumin seeds (or 1 tsp ground cumin),,tsp
+267,1 1/2,Middle Eastern Spiced Lentil and Rice (Mejadra),coriander seeds (or 1 1/2 tsp ground coriander),,tbsp
+268,1,Middle Eastern Spiced Lentil and Rice (Mejadra),basmati or long grain rice,uncooked,cup
+269,1 1/4 cup / 315 ml,Middle Eastern Spiced Lentil and Rice (Mejadra),water,(see notes),
+270,400g / 14 oz,Middle Eastern Spiced Lentil and Rice (Mejadra),"canned brown lentils, drained (1 can)",drained ,
+271,1/2,Middle Eastern Spiced Lentil and Rice (Mejadra),ground turmeric,,tsp
+272,1 1/2,Middle Eastern Spiced Lentil and Rice (Mejadra),ground cinnamon,,tsp
+273,1,Middle Eastern Spiced Lentil and Rice (Mejadra),sugar,,tsp
+274,1,Middle Eastern Spiced Lentil and Rice (Mejadra),salt,,tsp
+275,,Middle Eastern Spiced Lentil and Rice (Mejadra),Black pepper,,
+276,3,Middle Eastern Spiced Lentil and Rice (Mejadra),large or 4 small onions,very finely sliced,
+277,1 cup / 250 ml ,Middle Eastern Spiced Lentil and Rice (Mejadra),vegetable or sunflower oil,,
+278,,Middle Eastern Spiced Lentil and Rice (Mejadra),Salt,,
+279,2,Easy Soft Flatbread Recipe (No Yeast),plain flour (all purpose flour),"(level cups, unsifted, not packed), + keep 1/4 cup extra for dusting & adjusting dough",cups
+280,1/2,Easy Soft Flatbread Recipe (No Yeast),salt,,tsp
+281,3 1/2 tbsp / 50g,Easy Soft Flatbread Recipe (No Yeast),unsalted butter,(1.75 oz),
+282,3/4,Easy Soft Flatbread Recipe (No Yeast),milk,,cup
+283,1,Moroccan Baked Eggplant with Beef,garlic clove,minced,
+284,2,Moroccan Baked Eggplant with Beef,each cumin and coriander powder,,tsp
+285,1,Moroccan Baked Eggplant with Beef,paprika,,tsp
+286,1/2,Moroccan Baked Eggplant with Beef,pure chili powder,"(Note 1) (or cayenne pepper), adjust to taste",tsp
+287,1/2,Moroccan Baked Eggplant with Beef,salt,,tsp
+288,,Moroccan Baked Eggplant with Beef,Black pepper,,
+289,,Moroccan Baked Eggplant with Beef,Rind of 1 lemon,(use fine grater),
+290,1,Moroccan Baked Eggplant with Beef,lemon juice,,tbsp
+291,1 1/2,Moroccan Baked Eggplant with Beef,extra virgin olive oil,,tbsp
+292,2,Moroccan Baked Eggplant with Beef,medium eggplants,"about 20cm/8"" long (Note 1)",
+293,,Moroccan Baked Eggplant with Beef,Olive oil spray,,
+294,1 1/2,Moroccan Baked Eggplant with Beef,pine nuts,,tbsp
+295,1/2,Moroccan Baked Eggplant with Beef,olive oil,,tbsp
+296,1,Moroccan Baked Eggplant with Beef,garlic clove,,
+297,1/2,Moroccan Baked Eggplant with Beef,small onion,finely diced,
+298,200,Moroccan Baked Eggplant with Beef,beef mince,lean,g
+299,1,Moroccan Baked Eggplant with Beef,cilantro/coriander,finely chopped,tbsp
+300,1,Moroccan Baked Eggplant with Beef,tomato,deseeded and diced,
+301,1,Moroccan Baked Eggplant with Beef,cucumber,"small, diced",
+302,1,Moroccan Baked Eggplant with Beef,cilantro/coriander,finely chopped,tsp
+303,1,Moroccan Baked Eggplant with Beef,lemon juice,,tsp
+304,1,Moroccan Baked Eggplant with Beef,olive oil,,tsp
+305,,Moroccan Baked Eggplant with Beef,of sumac,(optional),Pinch
+306,,Moroccan Baked Eggplant with Beef,Salt and pepper,,
+307,,Moroccan Baked Eggplant with Beef,Yoghurt,plain thick (Note 1),
+308,1 lb / 500g ,Turkish Lamb Kofta Kebabs,lamb mince,(ground lamb) (or substitute with beef),
+309,1,Turkish Lamb Kofta Kebabs,small onion,"grated or minced using a food processor - about 1/4 cup (white, brown or yellow) (Note 1)",
+310,1,Turkish Lamb Kofta Kebabs,garlic clove,minced,
+311,1/4,Turkish Lamb Kofta Kebabs,pistachio nuts,ground (Optional. I use my food processor) (Note 2),cup
+312,1 1/2,Turkish Lamb Kofta Kebabs,salt,"(table salt, not flakes, use 2 1/2 tsp if using kosher or sea salt flakes)",tsp
+313,1,Turkish Lamb Kofta Kebabs,black pepper,,tsp
+314,1,Turkish Lamb Kofta Kebabs,cumin powder,,tbsp
+315,1,Turkish Lamb Kofta Kebabs,red pepper flakes,,tbsp
+316,1,Turkish Lamb Kofta Kebabs,olive oil,,tbsp
+317,3/4,Turkish Lamb Kofta Kebabs,plain yoghurt,(I use Greek),cup
+318,1,Turkish Lamb Kofta Kebabs,lemon juice,,tbsp
+319,1/2,Turkish Lamb Kofta Kebabs,garlic clove,minced,
+320,,Turkish Lamb Kofta Kebabs,Salt and pepper,,
+321,,Turkish Lamb Kofta Kebabs,Pita bread or lebanese flat bread,warmed,
+322,,Turkish Lamb Kofta Kebabs,Lettuce leaves of choice,,
+323,,Turkish Lamb Kofta Kebabs,Sliced tomato,,
+324,,Turkish Lamb Kofta Kebabs,Sliced red onion,,
+325,1,One Skillet Baked Chicken Shawarma and Rice (Pilaf),large garlic clove,minced (or 2 small cloves),
+326,1 1/2,One Skillet Baked Chicken Shawarma and Rice (Pilaf),ground coriander,,tsp
+327,1 1/2,One Skillet Baked Chicken Shawarma and Rice (Pilaf),ground cumin,,tsp
+328,1,One Skillet Baked Chicken Shawarma and Rice (Pilaf),ground cardamom,,tsp
+329,1,One Skillet Baked Chicken Shawarma and Rice (Pilaf),smoked paprika,(or ordinary is fine),tsp
+330,1,One Skillet Baked Chicken Shawarma and Rice (Pilaf),cayenne pepper,(optional),tsp
+331,1/2,One Skillet Baked Chicken Shawarma and Rice (Pilaf),salt,,tsp
+332,,One Skillet Baked Chicken Shawarma and Rice (Pilaf),Black pepper,,
+333,3,One Skillet Baked Chicken Shawarma and Rice (Pilaf),lemon juice,,tbsp
+334,5,One Skillet Baked Chicken Shawarma and Rice (Pilaf),chicken thigh fillets,"bone in, skin on - about 2 lb / 1kg in total (Note 1)",
+335,1/2,One Skillet Baked Chicken Shawarma and Rice (Pilaf),olive oil,,tbsp
+336,1,One Skillet Baked Chicken Shawarma and Rice (Pilaf),small onion,finely diced,
+337,2,One Skillet Baked Chicken Shawarma and Rice (Pilaf),garlic cloves,minced,
+338,1 1/2,One Skillet Baked Chicken Shawarma and Rice (Pilaf),long grain rice,uncooked (Note 2),cups
+339,1 1/2,One Skillet Baked Chicken Shawarma and Rice (Pilaf),chicken broth,(or water),cups
+340,2,One Skillet Baked Chicken Shawarma and Rice (Pilaf),water,,cups
+341,3/4 - 1,One Skillet Baked Chicken Shawarma and Rice (Pilaf),salt,,tsp
+342,,One Skillet Baked Chicken Shawarma and Rice (Pilaf),Black pepper,,
+343,1 1/2,One Skillet Baked Chicken Shawarma and Rice (Pilaf),cardamon powder,,tsp
+344,2,One Skillet Baked Chicken Shawarma and Rice (Pilaf),cinnamon sticks,(or 1/2 tsp cinnamon powder),
+345,400g (14oz),One Skillet Baked Chicken Shawarma and Rice (Pilaf),can chickpeas,drained (1 can),
+346,1/4,One Skillet Baked Chicken Shawarma and Rice (Pilaf),raisins or sultanas,(optional),cup
+347,,One Skillet Baked Chicken Shawarma and Rice (Pilaf),Yoghurt,"(plain, unsweetened. Greek yoghurt is great)",
+348,,One Skillet Baked Chicken Shawarma and Rice (Pilaf),Cilantro/coriander leaves,roughly chopped,
+349,,One Skillet Baked Chicken Shawarma and Rice (Pilaf),Parsley leaves,roughly chopped,
+350,1 1/2,Middle Eastern Shredded Lamb with Chickpea Pilaf (Rice),ground cumin,,tbsp
+351,1 1/2,Middle Eastern Shredded Lamb with Chickpea Pilaf (Rice),ground coriander,,tbsp
+352,1 1/2,Middle Eastern Shredded Lamb with Chickpea Pilaf (Rice),paprika,,tbsp
+353,2,Middle Eastern Shredded Lamb with Chickpea Pilaf (Rice),ground cardamon,or sub with ginger,tsp
+354,1,Middle Eastern Shredded Lamb with Chickpea Pilaf (Rice),salt,,tbsp
+355,,Middle Eastern Shredded Lamb with Chickpea Pilaf (Rice),Black pepper,,
+356,3,Middle Eastern Shredded Lamb with Chickpea Pilaf (Rice),olive oil,,tbsp
+357,3,Middle Eastern Shredded Lamb with Chickpea Pilaf (Rice),garlic cloves,minced,
+358,1.5 - 2 kg / 3 - 4 lb,Middle Eastern Shredded Lamb with Chickpea Pilaf (Rice),lamb shoulder,"bone in, trimmed of excess fat",
+359,3/4,Middle Eastern Shredded Lamb with Chickpea Pilaf (Rice),water,,cup
+360,1 - 2,Middle Eastern Shredded Lamb with Chickpea Pilaf (Rice),olive oil,,tbsp
+361,,Middle Eastern Shredded Lamb with Chickpea Pilaf (Rice),Lemon,highly recommended,
+362,,Middle Eastern Shredded Lamb with Chickpea Pilaf (Rice),Fresh coriander/cilantro leaves,optional - recommended,
+363,,Middle Eastern Shredded Lamb with Chickpea Pilaf (Rice),Yoghurt,optional,
+364,2,Middle Eastern Shredded Lamb with Chickpea Pilaf (Rice),olive oil,,tbsp
+365,1,Middle Eastern Shredded Lamb with Chickpea Pilaf (Rice),small onion,finely diced,
+366,2,Middle Eastern Shredded Lamb with Chickpea Pilaf (Rice),garlic cloves,minced,
+367,1 1/2,Middle Eastern Shredded Lamb with Chickpea Pilaf (Rice),long grain rice,or basmati,cups
+368,2,Middle Eastern Shredded Lamb with Chickpea Pilaf (Rice),cans of chickpeas,"800g/28oz, drained",
+369,2 1/2,Middle Eastern Shredded Lamb with Chickpea Pilaf (Rice),water,,cups
+370,2,Middle Eastern Shredded Lamb with Chickpea Pilaf (Rice),cumin powder,,tsp
+371,2,Middle Eastern Shredded Lamb with Chickpea Pilaf (Rice),coriander powder,,tsp
+372,2,Middle Eastern Shredded Lamb with Chickpea Pilaf (Rice),garam masala powder,or curry powder or 1/2 tsp coriander + 1/2 tsp all spice,tsp
+373,1,Middle Eastern Shredded Lamb with Chickpea Pilaf (Rice),salt,,tsp
+374,,Middle Eastern Shredded Lamb with Chickpea Pilaf (Rice),Black pepper,,
+375,3,Grilled Eggplant with Yoghurt Sauce,large eggplants,,
+376,1/4,Grilled Eggplant with Yoghurt Sauce,olive oil,,cup
+377,,Grilled Eggplant with Yoghurt Sauce,Salt and pepper,,
+378,1,Grilled Eggplant with Yoghurt Sauce,plain unsweetened yoghurt,(Greek or natural),cup
+379,1,Grilled Eggplant with Yoghurt Sauce,garlic clove,minced (Medium size. 1 large clove will make it too garlicky),
+380,1,Grilled Eggplant with Yoghurt Sauce,cumin powder,(Note 1),tsp
+381,1 to 2,Grilled Eggplant with Yoghurt Sauce,fresh lemon juice,(use amount to taste) (Note 2),tbsp
+382,2,Grilled Eggplant with Yoghurt Sauce,tahini,"(sesame paste) (you can leave this out if you don't have it, it is still a tasty sauce)",tbsp
+383,1/4,Grilled Eggplant with Yoghurt Sauce,salt,slightly heaped (about 3/8 tsp),tsp
+384,,Grilled Eggplant with Yoghurt Sauce,Black pepper,,
+385,1/2,Grilled Eggplant with Yoghurt Sauce,pomegranate,seeds only (Note 3),
+386,2,Grilled Eggplant with Yoghurt Sauce,mint leaves,finely sliced,tbsp
+387,2,Grilled Eggplant with Yoghurt Sauce,coriander / cilantro leaves,,tbsp
+388,,Grilled Eggplant with Yoghurt Sauce,Red chilli,finely sliced (to taste) (Note 4),
+389,,Grilled Eggplant with Yoghurt Sauce,Wedges or cheeks of lemon,(optional),
+390,4,"Shredded Red Cabbage, Carrot and Mint Salad",finely shredded red/purple cabbage,,cups
+391,1,"Shredded Red Cabbage, Carrot and Mint Salad",carrot,julienned,
+392,,"Shredded Red Cabbage, Carrot and Mint Salad",Handful of mint leaves,roughly chopped,
+393,2,"Shredded Red Cabbage, Carrot and Mint Salad",lemon juice,,tbsp
+394,3,"Shredded Red Cabbage, Carrot and Mint Salad",olive oil,,tbsp
+395,1/2,"Shredded Red Cabbage, Carrot and Mint Salad",salt,,tsp
+396,,"Shredded Red Cabbage, Carrot and Mint Salad",Black pepper,,
+397,8 oz / 250 g ,Hummus with Lamb,ground lamb,(mince),
+398,1/2,Hummus with Lamb,brown onion,finely diced,
+399,1,Hummus with Lamb,olive oil,,tbsp
+400,1/2,Hummus with Lamb,cumin powder,,tsp
+401,1/2,Hummus with Lamb,coriander powder,,tsp
+402,1/2,Hummus with Lamb,paprika powder,,tsp
+403,1/8,Hummus with Lamb,cinnamon powder,,tsp
+404,1/4,Hummus with Lamb,black pepper,,tsp
+405,1,Hummus with Lamb,salt,,tsp
+406,15 oz / 400 g ,Hummus with Lamb,tin chickpeas,drained,
+407,1/4,Hummus with Lamb,water,,cup
+408,1,Hummus with Lamb,garlic clove,,
+409,,Hummus with Lamb,Juice of ½ a small lemon,,
+410,2,Hummus with Lamb,tahini,(sesame paste),tbsp
+411,2,Hummus with Lamb,extra virgin olive oil,,tbsp
+412,,Hummus with Lamb,Salt and pepper,,
+413,1,Hummus with Lamb,pine nuts,,tbsp
+414,1,Hummus with Lamb,parsley,finely chopped,tbsp
+415,,Hummus with Lamb,Extra virgin olive oil,(for drizzling),
+416,400 g / 13 oz ,Middle Eastern Lamb and Lentil Rice Pilaf,mince/ground lamb,,
+417,1,Middle Eastern Lamb and Lentil Rice Pilaf,onion,"diced (brown, white or yellow)",
+418,6,Middle Eastern Lamb and Lentil Rice Pilaf,"(loosely packed) spinach or silverbeet/chard, roughly shredded",,cups
+419,2,Middle Eastern Lamb and Lentil Rice Pilaf,garlic cloves,minced,
+420,2,Middle Eastern Lamb and Lentil Rice Pilaf,olive oil,,tbsp
+421,1,Middle Eastern Lamb and Lentil Rice Pilaf,lentils,drained (400g/14oz) (Note 6),tin 
+422,1,Middle Eastern Lamb and Lentil Rice Pilaf,rice,preferably basmati (see notes),cup
+423,1 1/2,Middle Eastern Lamb and Lentil Rice Pilaf,water,(see notes),cups
+424,2,Middle Eastern Lamb and Lentil Rice Pilaf,coriander powder,,tsp
+425,2 1/2,Middle Eastern Lamb and Lentil Rice Pilaf,cumin powder,,tsp
+426,1/2,Middle Eastern Lamb and Lentil Rice Pilaf,cinnamon powder,,tsp
+427,1/2,Middle Eastern Lamb and Lentil Rice Pilaf,chilli powder,or cayenne pepper or other hot chilli powder (not American Chilli Powder) (optional),tsp
+428,1 1/2,Middle Eastern Lamb and Lentil Rice Pilaf,salt,,tsp
+429,1/2,Middle Eastern Lamb and Lentil Rice Pilaf,ground black pepper,,tsp
+430,1,Middle Eastern Lamb and Lentil Rice Pilaf,sugar,,tsp
+431,3 ,Middle Eastern Lamb and Lentil Rice Pilaf,tomatoes,sliced thickly,
+432,,Middle Eastern Lamb and Lentil Rice Pilaf,Fried Asian Shallots,(Scallions) (optional - see notes),
+433,,Middle Eastern Lamb and Lentil Rice Pilaf,Parsley leaves,(optional),
+434,1/4,Cinnamon Roasted Pumpkin,Jap Pumpkin,"(1 kg / 2lb), unpeeled, deseeded, cut into 6 wedges",
+435,3,Cinnamon Roasted Pumpkin,olive oil,,tbsp
+436,1,Cinnamon Roasted Pumpkin,cinnamon,,tsp
+437,1/4,Cinnamon Roasted Pumpkin,salt,,
+438,,Cinnamon Roasted Pumpkin,Black pepper,,
+439,1/2,Cinnamon Roasted Pumpkin,plain greek yoghurt,loosened with a bit of water,cup
+440,1/4,Cinnamon Roasted Pumpkin,lemon,,
+441,1,Cinnamon Roasted Pumpkin,pine nuts,toasted,tbsp
+442,1,Cinnamon Roasted Pumpkin,coriander leaves,,tbsp
+443,1,Cinnamon Roasted Pumpkin,birds eye chilli,finely sliced,
+444,2,Fattoush With Crunchy Flatbread Ribbons,tomatoes,each cut into 8 to 12 wedges,
+445,2,Fattoush With Crunchy Flatbread Ribbons,cucumbers,each cut into 12 sticks,
+446,1/2,Fattoush With Crunchy Flatbread Ribbons,red onion,finely sliced,
+447,1,Fattoush With Crunchy Flatbread Ribbons,lemon juice,,tbsp
+448,1/4,Fattoush With Crunchy Flatbread Ribbons,mint leaves,"(if leaves are large, roughly tear by hand)",cup
+449,1/4,Fattoush With Crunchy Flatbread Ribbons,coriander leaves,,cup
+450,2,Fattoush With Crunchy Flatbread Ribbons,lebanese flatbreads,(Note 1),
+451,1 1/2,Fattoush With Crunchy Flatbread Ribbons,olive oil,,tbsp
+452,,Fattoush With Crunchy Flatbread Ribbons,Salt and pepper,,
+453,2,Fattoush With Crunchy Flatbread Ribbons,lemon juice,,tbsp
+454,2,Fattoush With Crunchy Flatbread Ribbons,extra virgin olive oil,,tbsp
+455,1/2,Fattoush With Crunchy Flatbread Ribbons,salt,,tsp
+456,1,Fattoush With Crunchy Flatbread Ribbons,garlic clove,minced,
+457,1/2,Fattoush With Crunchy Flatbread Ribbons,paprika,,tsp
+458,1,Fattoush With Crunchy Flatbread Ribbons,sumac,,tsp
+459,1,Middle Eastern Roasted Vegetables with Tahini Drizzle,red onion,sliced thickly,
+460,1,Middle Eastern Roasted Vegetables with Tahini Drizzle,carrot,cut into thick sticks,
+461,1,Middle Eastern Roasted Vegetables with Tahini Drizzle,zucchini,cut into thick sticks,
+462,1/4,Middle Eastern Roasted Vegetables with Tahini Drizzle,pumpkin,"cut into 2""/3cm cubes",
+463,1 1/2,Middle Eastern Roasted Vegetables with Tahini Drizzle,large cauliflower florets,,cups
+464,1,Middle Eastern Roasted Vegetables with Tahini Drizzle,beetroot,"cut into 1.5""/2cm cubes",
+465,2,Middle Eastern Roasted Vegetables with Tahini Drizzle,olive oil,,tbsp
+466,1,Middle Eastern Roasted Vegetables with Tahini Drizzle,salt,,tsp
+467,,Middle Eastern Roasted Vegetables with Tahini Drizzle,Black pepper,,
+468,3,Middle Eastern Roasted Vegetables with Tahini Drizzle,tahini,,tbsp
+469,3,Middle Eastern Roasted Vegetables with Tahini Drizzle,lemon juice,,tbsp
+470,1,Middle Eastern Roasted Vegetables with Tahini Drizzle,small garlic clove,minced (or 1/2 large),
+471,1/2,Middle Eastern Roasted Vegetables with Tahini Drizzle,salt,,tsp
+472,,Middle Eastern Roasted Vegetables with Tahini Drizzle,Black pepper,,
+473,,Middle Eastern Roasted Vegetables with Tahini Drizzle,Water,,
+474,2,Middle Eastern Roasted Vegetables with Tahini Drizzle,za'atar spice mix,(see notes),tsp
+475,2,Middle Eastern Roasted Vegetables with Tahini Drizzle,pine nuts,dry roasted,tbsp
+476,1,Middle Eastern Roasted Vegetables with Tahini Drizzle,coriander,chopped (or parsley),tbsp
+477,1,Chickpea Rice Pilaf,uncooked basmati rice,(or long grain or wild rice),cup
+478,1 1/2,Chickpea Rice Pilaf,water,(Note 2),cups
+479,1/2,Chickpea Rice Pilaf,salt,,tsp
+480,1 1/2,Chickpea Rice Pilaf,chickpeas,"drained, but still wet",tins (21 oz / 600 g) 
+481,1/4,Chickpea Rice Pilaf,salt,,tsp
+482,1,Chickpea Rice Pilaf,cumin,,tsp
+483,1,Chickpea Rice Pilaf,garam masala,(Note 1 for substitutions),tsp
+484,1,Chickpea Rice Pilaf,olive oil,,tbsp
+485,1/4,Chickpea Rice Pilaf,parsley leaves,,cup
+486,1/4,Chickpea Rice Pilaf,cilantro,(coriander) leaves,cup
+487,1/4,Chickpea Rice Pilaf,sultanas or currents,,cup
+488,,Chickpea Rice Pilaf,Black pepper,,
+489,1/2,Chickpea Rice Pilaf,fried shallots,store bought (Note 3),cup
+490,2,Middle Eastern Roasted Eggplant with Couscous,medium eggplants,,
+491,2,Middle Eastern Roasted Eggplant with Couscous,garlic cloves,crushed,
+492,2,Middle Eastern Roasted Eggplant with Couscous,ground cumin,,tsp
+493,2,Middle Eastern Roasted Eggplant with Couscous,ground coriander,,tsp
+494,1,Middle Eastern Roasted Eggplant with Couscous,chilli flakes,,tsp
+495,1,Middle Eastern Roasted Eggplant with Couscous,paprika,,tsp
+496,,Middle Eastern Roasted Eggplant with Couscous,Rind of 1 medium lemon,,
+497,4,Middle Eastern Roasted Eggplant with Couscous,olive oil,,tbsp
+498,1/2,Middle Eastern Roasted Eggplant with Couscous,salt,,tsp
+499,1/2,Middle Eastern Roasted Eggplant with Couscous,salt,,tsp
+500,3/4,Middle Eastern Roasted Eggplant with Couscous,couscous,,cup
+501,1/4,Middle Eastern Roasted Eggplant with Couscous,sultanas or currants,,cup
+502,3/4,Middle Eastern Roasted Eggplant with Couscous,boiling water,,cup
+503,1/4,Middle Eastern Roasted Eggplant with Couscous,roughly chopped green olives,,cup
+504,1/4,Middle Eastern Roasted Eggplant with Couscous,flaked almonds,dry toasted on stove or in oven,cup
+505,1/4,Middle Eastern Roasted Eggplant with Couscous,scallions or spring onion,chopped,cup
+506,1/4,Middle Eastern Roasted Eggplant with Couscous,chopped cilantro,(coriander) and mint (1/4 cup together),cup
+507,,Middle Eastern Roasted Eggplant with Couscous,Black pepper,,
+508,,Middle Eastern Roasted Eggplant with Couscous,Juice of 1/2 lemon,,
+509,2,Middle Eastern Roasted Eggplant with Couscous,extra virgin olive oil,,tbsp
+510,4,Crispy Couscous Pancake with Tomato & Onion,olive oil,,tbsp
+511,1,Crispy Couscous Pancake with Tomato & Onion,couscous,,cup
+512,1,Crispy Couscous Pancake with Tomato & Onion,"vegetable stock powder (or chicken stock powder, or just salt)",,tsp
+513,3/4,Crispy Couscous Pancake with Tomato & Onion,boiling water,,cup
+514,1,Crispy Couscous Pancake with Tomato & Onion,"brown onion, diced",,
+515,2,Crispy Couscous Pancake with Tomato & Onion,"medium tomatoes, diced (about 1 1/4 cups) (see notes)",,
+516,1,Crispy Couscous Pancake with Tomato & Onion,tomato paste,,tbsp
+517,1,Crispy Couscous Pancake with Tomato & Onion,sugar,,tsp
+518,,Crispy Couscous Pancake with Tomato & Onion,Handful coriander or parsley leaves (optional),,
+519,1/2,Crispy Couscous Pancake with Tomato & Onion,salt,,tsp
+520,,Crispy Couscous Pancake with Tomato & Onion,Fresh black pepper,,
